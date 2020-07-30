@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805201"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+  Това се отнася за следните издания: Datacenter, Datacenter без Hyper-V, Предприятие, Предприятие без Hyper-V, за Itanium-базирани системи, Фондация, Стандарт, Стандарт без Hyper-V, Уеб
+
+
+  > [!IMPORTANT]
+
+  > Поддръжката за този продукт е приключила. Вижте насоките за миграцията по-долу.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://aka.ms/AA1ovn4)\n* [Информация за надстройка на сървър](/windows-server/upgrade/upgrade-overview)\n* [Разширена програма за актуализация на защитата (ESU)](/lifecycle/faq/extended-security-updates)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Разширените актуализации на защитата (ESU) се предлагат чрез специфични програми за корпоративно лицензиране за Datacenter, Standard, Enterprise и Embedded издания на този продукт издания, за срок до три години след края на поддръжката. Свържете се с вашия партньор или екип на акаунт в Microsoft, за да научите повече. \n\n--------------------------------------------------------------Членна дата---- Дата на излизане\n\nУдължена година на актуализация на защитата 3---01/11/2022---01/10/2023\n\nУдължена година на актуализация на защитата 2---01/12/2021---01/11/2022\n\nУдължена година на актуализация на защитата 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Фондацията за Windows Server 2008 е издаден на 21 май 2009 г.\n\n## <a name=\"editions\"></a>Издания \n* Datacenter\n* Център за данни без хипер-V\n* Предприятие\n* Предприятие без Хипер-V\n* за itanium-базирани системи\n* Фондация\n* Стандартна\n* Стандартна без Hyper-V\n* Уеб"
