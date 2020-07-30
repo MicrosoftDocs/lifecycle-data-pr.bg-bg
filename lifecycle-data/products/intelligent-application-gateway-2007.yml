@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Прегледайте оригиналната статия на английски: 301139'
+  description: Microsoft Интелигентно приложение Gateway 2007 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6e5cc4784788d27433b7525f6a900cbc1e9f0713
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805067"
+name: 'Прегледайте оригиналната статия на английски: 301139'
+summary: >
+  Microsoft Интелигентно приложение Gateway 2007 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+
+  > [!IMPORTANT]
+
+  > Поддръжката за този продукт е приключила. Вижте насоките за миграцията по-долу.
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/01/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Service Pack 2
+  startDate: 11/27/2008
+  endDate: 07/11/2017
+- version: Service Pack 1
+  startDate: 09/03/2007
+  endDate: 01/12/2010
+- version: Original Release
+  startDate: 06/01/2007
+  endDate: 10/14/2008
+content: "\n## <a name=\"links\"></a>Връзки \n* [Интелигентна карта за шлюз за приложения от Microsoft 2007](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)"
