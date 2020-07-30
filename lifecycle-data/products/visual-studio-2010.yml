@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Изглед от 10 до 2008
+  description: Visual Studio 2010 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804494"
+name: Изглед от 10 до 2008
+summary: >+
+  Visual Studio 2010 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+  Това се отнася за следните издания: Всички, ASP .NET MVC 4, експрес, F # 2.0 по време на работа, Управление на лабораторни условия, Инструменти за производителност, премия, професионален, отдалечен дебъгер, SDK, Shell (integrated), Shell (изолиран), Екипни агенти, Team Explorer, Тест professional, Инструменти за Office system 4.0 по време на работа, Последен, VB експрес, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Визуализация & моделиране на SDK
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Агенти\n* Всички\n* 4. 1000000000000000000000000\n* Експресно\n* F# 2.0 по време на изпълнение\n* Лабораторен мениджмънт\n* Инструменти за производителност\n* Премия\n* Професионални\n* Отдалечен дебъгер\n* Sdk\n* Обвивка (интегрирана)\n* Обвивка (изолирана)\n* Екипни агенти\n* Екипно изследовател\n* Професионален тест\n* Инструменти за изпълнение на системата на Office 4.0\n* Последен\n* 20000 000\n* Визуален C# експрес\n* Визуален C++ експрес\n* Визуални уеб разработчици Express\n* Визуализация & sdK за моделиране"

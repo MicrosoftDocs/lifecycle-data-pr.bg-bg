@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Преглед на оригиналната на:39/28277
+  description: Windows Server 2008 R2 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805200"
+name: Преглед на оригиналната на:39/28277
+summary: "Windows Server 2008 R2 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.\n\nТова се отнася за следните издания: Datacenter, Enterprise, HPC Edition, Itanium-базирани системи, Стандарт, Уеб\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. Вижте насоките за миграцията по-долу. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://aka.ms/AA1ovn4)\n* [Информация за надстройка на сървър](/windows-server/upgrade/upgrade-overview)\n* [Разширена програма за актуализация на защитата (ESU)](/lifecycle/faq/extended-security-updates)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Разширените актуализации на защитата (ESU) се предлагат чрез специфични програми за корпоративно лицензиране за Datacenter, Standard, Enterprise и Embedded издания на този продукт издания, за срок до три години след края на поддръжката. Свържете се с вашия партньор или екип на акаунт в Microsoft, за да научите повече. \n\n--------------------------------------------------------------Членна дата---- Дата на излизане\n\nУдължена година на актуализация на защитата 3---01/11/2022---01/10/2023\n\nУдължена година на актуализация на защитата 2---01/12/2021---01/11/2022\n\nУдължена година на актуализация на защитата 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Издания \n* Datacenter\n* Предприятие\n* Издание за ВИТ\n* Itanium-базирани системи\n* Стандартна\n* Уеб"

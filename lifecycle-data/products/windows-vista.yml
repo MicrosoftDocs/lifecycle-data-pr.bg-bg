@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Vista
+  description: Windows Vista следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804478"
+name: Windows Vista
+summary: >
+  Windows Vista следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+  Това се отнася за следните издания: бизнес, бизнес N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-битов, Home Basic N, Home Basic N 64-битов, Home Premium, Home Premium 64-битов, Стартер, Ultimate, Ultimate 64-битов
+
+
+  > [!IMPORTANT]
+
+  > Поддръжката за този продукт е приключила, вижте по-долу за информация за миграцията.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/25/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 04/11/2017
+- version: Service Pack 1
+  startDate: 02/04/2008
+  endDate: 07/12/2011
+- version: Original Release
+  startDate: 01/25/2007
+  endDate: 04/13/2010
+content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Съображения за надстройка и миграция на Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Бизнес\n* Бизнес N\n* Предприятие\n* Предприятие X64\n* Начало Основни\n* Начало Basic 64-битов\n* Начало Основни N\n* Начало Основен N 64-битов\n* Домашен премиум\n* Начало Premium 64-битов\n* Начинаещи\n* Последен\n* Последен 64-битов"

@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: БЪРЗО търсене сървър 2010 (за интернет сайтове, за вътрешни приложения)
+  description: БЪРЗО търсене Server 2010 (за интернет сайтове за вътрешни приложения) следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805090"
+name: БЪРЗО търсене сървър 2010 (за интернет сайтове, за вътрешни приложения)
+summary: >+
+  БЪРЗО търсене Server 2010 (за интернет сайтове за вътрешни приложения) следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+  Това се отнася за следните издания: вътрешни приложения, Интернет сайтове
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [ЧЗВ за жизнения цикъл - Общи](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Изключва версиите, които преди това се поддържат. Поддръжката на този продукт е предмет на условията на придобиването му.\n\n## <a name=\"editions\"></a>Издания \n* Вътрешни приложения\n* Интернет сайтове"
