@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 301400'
+  description: Виртуализация на Microsoft Приложения 4.6 следва фиксирани правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805050"
+name: 'Преглед на оригиналната статия на английски: 301400'
+summary: >+
+  Виртуализация на Microsoft Приложения 4.6 следва [фиксирани](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+  Това се отнася за следните издания: за услуги за отдалечен работен плот за windows настолни компютри, Sequencer
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта и миграцията](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Насоки за миграцията](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Тъй като App-V 4.6 клиент използва App-V 4.5 сървър, App-V 4.5 сървър ще продължи да се поддържа според жизнения цикъл на App-V 4.6, когато се използва с поддържания App-V 4.6 клиент.\n\n## <a name=\"editions\"></a>Издания \n* за услуги за отдалечен работен плот\n* за работни плотове на Windows\n* Sequencer"
