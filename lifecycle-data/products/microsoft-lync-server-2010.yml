@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 2998999'
+  description: Microsoft Lync Server 2010 следва фиксирани жизнения цикъл правила.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
+  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/31/2020
+  ms.locfileid: "879440"
+name: 'Преглед на оригиналната статия на английски: 2998999'
+summary: >+
+  Microsoft Lync Server 2010 следва [фиксирани](/lifecycle/policies/fixed) жизнения цикъл правила.
+
+
+  Това се отнася за следните издания: Enterprise, Пакет за групов чат софтуер, КОМПЛЕКТ ЗА РАЗРАБОТКА
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Връзки \n* [Издание за телефон на Lync](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync телефон издание се поддържа с Lync Server 2010 и Lync Server 2013. Дата на поддръжката за Lync телефон издание е удължен 2 години, за да се приведе в съответствие с lync Server 2013 жизнен цикъл.\n\n## <a name=\"editions\"></a>Издания \n* Предприятие\n* Комплект за разработка на софтуер за групов чат\n* Sdk\n* Стандартна"
