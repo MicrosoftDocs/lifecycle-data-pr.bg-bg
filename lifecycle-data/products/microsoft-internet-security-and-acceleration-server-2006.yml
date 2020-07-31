@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 2998999'
+  description: Microsoft Internet Security и Ускорение Server 2006 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 6e2ed1ecf6b002767d3aaf13d12cc14da3042fac
+  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/30/2020
+  ms.locfileid: "878846"
+name: 'Преглед на оригиналната статия на английски: 2998999'
+summary: "Microsoft Internet Security и Ускорение Server 2006 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.\n\nТова се отнася за следните издания:\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. \n"
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/17/2006
+  end: 01/10/2012
+  extendedEnd: 01/10/2017
+releases:
+- version: Service Pack 1
+  startDate: 07/02/2008
+  endDate: 01/10/2017
+- version: Original Release
+  startDate: 10/17/2006
+  endDate: 07/14/2009
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Предприятие\n* Стандартна"
