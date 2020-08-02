@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Услуги за актуализиране на Windows за Windows Server 2016
+  description: Услугите за актуализиране на Windows Server 2016 за Windows Server следва правилата за жизнения цикъл на компонентите.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 939c37245a4ed7263f746a3baac45b3105d89eda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804481"
+name: Услуги за актуализиране на Windows за Windows Server 2016
+summary: >+
+  Услугите за актуализиране на Windows Server 2016 за Windows Server следва правилата за жизнения цикъл на [компонентите.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/15/2016
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+content: "> [!TIP]\n> Този компонент следва жизнения цикъл на родителския продукт, Windows Server 2016.\n\n## <a name=\"links\"></a>Връзки \n* [Преглед на оригиналната на:39/2988](/lifecycle/products/windows-server-2016?branch=live)"
