@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Диспечер на операциите на системния център 2007
+  description: System Center Operations Manager 2007 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8efa21f33b388d13bbe5ca14c03dc2275d9d5b78
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804876"
+name: Диспечер на операциите на системния център 2007
+summary: "System Center Operations Manager 2007 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.\n\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. Вижте насоките за миграцията по-долу. \n"
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 06/23/2007
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2008
+  endDate: 07/09/2019
+- version: Original Release
+  startDate: 06/23/2007
+  endDate: 04/14/2009
+content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)"

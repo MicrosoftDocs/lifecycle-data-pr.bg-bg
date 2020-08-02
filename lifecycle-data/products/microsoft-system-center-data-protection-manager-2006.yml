@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 301499'
+  description: Мениджърът за защита на данните на Microsoft system Center 2006 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e1d39ae874bd9d3a0491711fa466958ed75fae39
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804923"
+name: 'Преглед на оригиналната статия на английски: 301499'
+summary: >+
+  Мениджърът за защита на данните на Microsoft system Center 2006 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/22/2005
+  end: 04/13/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 10/23/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 10/22/2005
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n* [Насоки за миграцията](https://blogs.technet.microsoft.com/dpm/2016/03/24/system-center-data-protection-manager-2006-end-of-support)"
