@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Вграден POSReady на Windows 2009
+  description: Windows Embedded POSReady 2009 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0e56e5a9ca8be7a3144f2107f487ce342b8f3ffe
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804847"
+name: Вграден POSReady на Windows 2009
+summary: >
+  Windows Embedded POSReady 2009 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+
+  > [!IMPORTANT]
+
+  > Поддръжката е прекратена. Вижте насоките за миграцията по-долу.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/10/2009
+  end: 04/08/2014
+  extendedEnd: 04/09/2019
+releases:
+- version: Original Release
+  startDate: 03/10/2009
+  endDate: 04/09/2019
+content: "\n## <a name=\"links\"></a>Връзки \n* [Край на поддръжката за Windows Embedded 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows за IoT](https://www.microsoft.com/windowsforbusiness/windows-iot)"
