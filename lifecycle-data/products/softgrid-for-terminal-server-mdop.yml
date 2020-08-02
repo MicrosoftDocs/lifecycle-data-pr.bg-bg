@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Софтуер за терминален сървър (MDOP)
+  description: Softgrid за терминален сървър (MDOP) следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804344"
+name: Софтуер за терминален сървър (MDOP)
+summary: >+
+  Softgrid за терминален сървър (MDOP) следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>Връзки \n* [ЧЗВ за жизнения цикъл - Общи](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Изключва версиите, които преди това се поддържат. Поддръжката на този продукт е предмет на условията на придобиването му."

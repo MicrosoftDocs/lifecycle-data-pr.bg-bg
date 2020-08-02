@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Фондация за самоличност на Windows
+  description: Windows Identity Foundation следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: bf0feb07b0de728c2a1e19c8e9476a943719a6b6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804319"
+name: Фондация за самоличност на Windows
+summary: >+
+  Windows Identity Foundation следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 02/14/2010
+  end: 04/14/2015
+  extendedEnd: 04/14/2020
+releases:
+- version: Original Release
+  startDate: 02/14/2010
+  endDate: 04/14/2020
+content: ''
