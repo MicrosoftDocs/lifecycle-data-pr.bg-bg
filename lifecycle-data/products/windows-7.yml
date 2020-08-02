@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: "7"
+  description: Windows 7 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804335"
+name: "7"
+summary: "Windows 7 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.\n\nТова важи за следните издания: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Професионален, Професионален за вградени системи, Професионални N, Стартер, Стартер N, Ultimate, Ultimate за вградени системи, Ultimate N\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. Вижте насоките за миграцията по-долу. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> \"* Разширените актуализации на защитата (ESU) се предлагат чрез специфични програми за корпоративно лицензиране за Windows 7 Professional, Enterprise и Professional for Embedded Systems издания на този продукт, за срок до още три години след края на поддръжката. Свържете се с вашия партньор или екип на акаунт в Microsoft, за да научите повече. \n\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://support.microsoft.com/help/4057281)\n* [Надстройване от Windows 7 до Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Разширена програма за актуализация на защитата (ESU)](/lifecycle/faq/extended-security-updates)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Предприятие\n* Предприятие N\n* Начало Основни\n* Домашен премиум\n* Домашен премиум N\n* Професионални\n* Професионални за вградени системи\n* Професионална N\n* Начинаещи\n* Стартер N\n* Последен\n* Крайната за вградени системи\n* Върховната N"
