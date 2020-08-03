@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Антиген на Microsoft
+  description: Антигенът на Microsoft следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805054"
+name: Антиген на Microsoft
+summary: >+
+  Антигенът на Microsoft следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+  Това се отнася за следните издания: 9.0 за Exchange, Enterprise Manager 9.0, за SMTP шлюзове, диспечер на спам
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/17/2006
+  end: 04/08/2014
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 07/17/2006
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Пътната карта за продукти за сигурност под марката На Forefront се промени.Този продукт се прекратява от 31 декември 2015 г.\n\n## <a name=\"editions\"></a>Издания \n* 9.0 за замяна\n* Мениджър на предприятие 9.0\n* за SMTP шлюзове\n* Мениджър на спам"

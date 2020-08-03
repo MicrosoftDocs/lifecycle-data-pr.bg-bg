@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Прегледайте оригиналната статия на английски: 300119'
+  description: Microsoft бизнес решения --Solomon 6.0 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 540bb6a54428f0ebae78d2599649a27a4504fea6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805013"
+name: 'Прегледайте оригиналната статия на английски: 300119'
+summary: >+
+  Microsoft бизнес решения --Solomon 6.0 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/30/2004
+  end: 10/13/2009
+releases:
+- version: Original Release
+  startDate: 09/30/2004
+  endDate: 10/13/2009
+content: ''
