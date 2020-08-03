@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft шлюз за уеб защита на уеб сайтове за управление на заплахи
+  description: Услугите за уеб защита на шлюз за управление на заплахи на Microsoft следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804971"
+name: Microsoft шлюз за уеб защита на уеб сайтове за управление на заплахи
+summary: >+
+  Услугите за уеб защита на шлюз за управление на заплахи на Microsoft следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/01/2009
+  end: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 12/01/2009
+  endDate: 12/31/2015
+content: "\n## <a name=\"links\"></a>Връзки \n* [Пътна карта за преден план](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Пътната карта за продукти за сигурност под марката На Forefront се промени.Този продукт се прекратява от 31 декември 2015 г."
