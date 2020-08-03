@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 301100'
+  description: Microsoft геномика следва модерните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9f52d7baf49b2bad411cda9bc96706cfc39bd5c0
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867715"
+name: 'Преглед на оригиналната статия на английски: 301100'
+summary: >+
+  Microsoft геномика следва [модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 11/01/2017
+releases:
+- version: Original Release
+  startDate: 11/01/2017
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за обслужване](/azure/genomics/version-release-history-genomics)"

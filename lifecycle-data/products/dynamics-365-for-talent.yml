@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 за таланти
+  description: Dynamics 365 for Talent следва Модерните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867748"
+name: Dynamics 365 за таланти
+summary: >+
+  Dynamics 365 for Talent следва [Модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+
+
+  Това се отнася за следните издания: Onboard
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 07/31/2017
+  end: 02/02/2022
+releases:
+- version: Original Release
+  startDate: 07/31/2017
+  endDate: 02/02/2022
+content: "\n## <a name=\"links\"></a>Връзки \n* [Системни изисквания](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Насоки за миграцията](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Приложенията за \"Привличане\" ще бъдат оттеглени на 2 февруари 2022.  Основен човешки ресурси, отново подмладята като Dynamics 365 Човешки ресурси на 1 февруари 2020 г., вижте ръководство за миграция за повече информация.\n\n## <a name=\"editions\"></a>Издания \n* Борда"
