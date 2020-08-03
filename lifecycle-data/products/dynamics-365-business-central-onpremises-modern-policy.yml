@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Централна локална бизнес dynamics 365 (Модерни правила)
+  description: Централна локална (Модерни правила) на Dynamics 365 Business Central следва модерните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867738"
+name: Централна локална бизнес dynamics 365 (Модерни правила)
+summary: >+
+  Централна локална (Модерни правила) на Dynamics 365 Business Central следва [модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+
+
+products:
+- dynamics
+policyType: modern-on-prem
+supportDates:
+  start: 10/01/2019
+releases:
+- version: 2020 release wave 1, version 16.x
+  startDate: 04/01/2020
+  endDate: 10/12/2021
+- version: 2019 release wave 2, version 15.x
+  startDate: 10/01/2019
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за обслужване](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Преглед на оригиналната статия на английски: 3115108](https://aka.ms/businessappsreleasenotes)\n* [Системни изисквания](/dynamics365/business-central/product-requirements)\n* [Често задавани въпроси](/dynamics365/business-central/dev-itpro/faq)"

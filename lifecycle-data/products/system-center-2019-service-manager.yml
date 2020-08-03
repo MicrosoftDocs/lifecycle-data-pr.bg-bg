@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Диспечер на услуги за system Center 2019
+  description: Мениджърът на услуги за System Center 2019 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 488ee016cd574e0318bd9e0062bc2919299b89d8
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867850"
+name: Диспечер на услуги за system Center 2019
+summary: >+
+  Мениджърът на услуги за System Center 2019 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 03/14/2019
+  end: 04/09/2024
+  extendedEnd: 04/09/2029
+releases:
+- version: Original Release
+  startDate: 03/14/2019
+  endDate: 04/09/2029
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта](/system-center/)"
