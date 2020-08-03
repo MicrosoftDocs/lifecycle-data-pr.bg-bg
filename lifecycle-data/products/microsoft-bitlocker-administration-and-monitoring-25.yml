@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 3111112'
+  description: Microsoft BitLocker администриране и наблюдение 2.5 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fe5d94e98de4c880815a7bad0a2ae5dd42a74600
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848926"
+name: 'Преглед на оригиналната статия на английски: 3111112'
+summary: >+
+  Microsoft BitLocker администриране и наблюдение 2.5 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 05/01/2014
+  end: 07/09/2019
+  extendedEnd: 04/14/2026
+releases:
+- version: Service Pack 1
+  startDate: 08/03/2015
+  endDate: 04/14/2026
+- version: Original Release
+  startDate: 05/01/2014
+  endDate: 10/11/2016
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)"

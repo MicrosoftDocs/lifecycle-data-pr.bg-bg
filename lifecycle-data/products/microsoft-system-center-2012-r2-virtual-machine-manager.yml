@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 3111222'
+  description: Microsoft система център 2012 R2 виртуална машина мениджър следва фиксирани правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 45aa95c9e57ed369960f4142c01764f36a8a0495
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848673"
+name: 'Преглед на оригиналната статия на английски: 3111222'
+summary: >+
+  Microsoft система център 2012 R2 виртуална машина мениджър следва [фиксирани](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 01/16/2014
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 01/16/2014
+  endDate: 07/12/2022
+content: "\n## <a name=\"links\"></a>Връзки \n* [Документация на центъра за системата](/system-center/#pivot=components&panel=components-all)\n* [Системни ресурси](https://www.microsoft.com/system-center/resources)"

@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 2999999'
+  description: Microsoft Office 2013 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849049"
+name: 'Преглед на оригиналната статия на английски: 2999999'
+summary: >+
+  Microsoft Office 2013 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+  Това важи за следните издания: Начало и бизнес, у дома и студент, професионални, професионални плюсове, програма за използване на дома, стандарт, Сървър за уеб приложения
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Service Pack 1
+  startDate: 02/25/2014
+  endDate: 04/11/2023
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/14/2015
+content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 не се отнася за изданието на сървъра за уеб приложения. \n\n## <a name=\"editions\"></a>Издания \n* Начало и бизнес\n* Начало и студент\n* Професионални\n* Професионален плюс\n* Програма за професионално използване на дома\n* Стандартна\n* Сървър за уеб приложения"

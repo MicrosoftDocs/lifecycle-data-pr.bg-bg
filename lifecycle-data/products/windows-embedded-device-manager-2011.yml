@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows вграден диспечер на устройства 2011
+  description: Windows Embedded диспечер на устройства 2011 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2d201270f62cb33b4d7bd7f8ca6a7c43dfe01f06
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849012"
+name: Windows вграден диспечер на устройства 2011
+summary: >
+  Windows Embedded диспечер на устройства 2011 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+
+  > [!IMPORTANT]
+
+  > Поддръжката за този продукт е приключила.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/29/2011
+  end: 01/08/2013
+  extendedEnd: 01/09/2018
+releases:
+- version: Service Pack 1
+  startDate: 12/07/2011
+  endDate: 01/09/2018
+- version: Original Release
+  startDate: 05/29/2011
+  endDate: 01/08/2013
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)"

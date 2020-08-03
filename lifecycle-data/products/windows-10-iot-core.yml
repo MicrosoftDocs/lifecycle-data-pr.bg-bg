@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Ядро на IoT за Windows 10
+  description: Windows 10 IoT ядро следва модерните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848896"
+name: Ядро на IoT за Windows 10
+summary: >
+  Windows 10 IoT ядро следва [модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+
+
+
+  > [!IMPORTANT]
+
+  > Microsoft ще продължи да поддържа поне един полугодишен канал на Windows 10 до 14 октомври 2025 г.
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 08/02/2016
+  end: 10/14/2025
+releases:
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 11/10/2020
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/12/2019
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 04/09/2019
+- version: Version 1703
+  startDate: 04/11/2017
+  endDate: 10/09/2018
+- version: Version 1607
+  startDate: 08/02/2016
+  endDate: 04/10/2018
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта](/windows/iot-core/windows-iot-core)\n* [Лист с факти за жизнения цикъл на Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows като услуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [ЧЗВ за жизнения цикъл - Продукти на Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Освен ако не е отложено, следващите актуализации на функциите на Windows 10 полугодишни канали могат да бъдат инсталирани преди посочената край на базова поддръжка дата."

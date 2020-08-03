@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Вградена 8.1 ръчно
+  description: Вграден 8.1 Handheld windows следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849072"
+name: Вградена 8.1 ръчно
+summary: >
+  Вграден 8.1 Handheld windows следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+
+  > [!IMPORTANT]
+
+  > Поддръжката за този продукт е приключила. Ако вашата организация все още поддържа тези платформи и има допълнителни въпроси, моля, свържете се с екипа на вашия акаунт.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Връзки \n* [Windows 10 IoT](/windows/iot-core/windows-iot-core)"

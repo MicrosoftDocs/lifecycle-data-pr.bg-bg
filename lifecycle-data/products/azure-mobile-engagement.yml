@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Ангажиране на мобилни устройства в Azure
+  description: Azure Mobile Engagement следва модерните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5b91321c749556c0bd13b700b1c8a1806e2a9bb5
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848649"
+name: Ангажиране на мобилни устройства в Azure
+summary: >+
+  Azure Mobile Engagement следва [модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/01/2015
+  end: 03/31/2018
+releases:
+- version: Original Release
+  startDate: 10/01/2015
+  endDate: 03/31/2018
+content: ''

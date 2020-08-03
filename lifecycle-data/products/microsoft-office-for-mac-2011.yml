@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 2964499'
+  description: Microsoft Office за Mac 2011 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848703"
+name: 'Преглед на оригиналната статия на английски: 2964499'
+summary: >+
+  Microsoft Office за Mac 2011 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+  Това важи за следните издания: "Академична" програма "Начало" и "Бизнес", "Домашна употреба", "Дом" и "Студент", "Стандарт"
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Service Pack 3
+  startDate: 01/29/2013
+  endDate: 10/10/2017
+- version: Service Pack 2
+  startDate: 04/12/2012
+  endDate: 04/08/2014
+- version: Service Pack 1
+  startDate: 04/15/2011
+  endDate: 07/09/2013
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 01/10/2012
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Базовата поддръжка за Microsoft Office за Mac 2011 се удължава, както е показано, за да се осигури на всички клиенти стандартната хронология на прехода към жизнения цикъл.\n\n## <a name=\"editions\"></a>Издания \n* Академични\n* Начало и бизнес\n* Програма за домашно ползване и бизнес\n* Начало и студент\n* Стандартна"
