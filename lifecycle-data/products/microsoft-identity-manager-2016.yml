@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 2998999'
+  description: Microsoft Identity Manager 2016 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 81b15d013b9c79646892295de5477fc3bd4b2dbc
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848733"
+name: 'Преглед на оригиналната статия на английски: 2998999'
+summary: >+
+  Microsoft Identity Manager 2016 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 09/28/2015
+  end: 01/12/2021
+  extendedEnd: 01/13/2026
+releases:
+- version: Service Pack 2
+  startDate: 11/04/2019
+  endDate: 01/13/2026
+- version: Service Pack 1
+  startDate: 09/20/2016
+  endDate: 11/04/2020
+- version: Original Release
+  startDate: 09/28/2015
+  endDate: 10/10/2017
+content: "\n## <a name=\"links\"></a>Връзки \n* [Поддръжка на Azure е налична за Azure AD интегриране компоненти до края на разширена поддръжка за Microsoft Identity Manager 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure планове за поддръжка.](https://azure.microsoft.com/support/plans/)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n* [Информация за продукта](/microsoft-identity-manager/microsoft-identity-manager-2016)"

@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 2998999'
+  description: Microsoft Forefront Endpoint Protection 2010 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848913"
+name: 'Преглед на оригиналната статия на английски: 2998999'
+summary: >
+  Microsoft Forefront Endpoint Protection 2010 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+
+  > [!IMPORTANT]
+
+  > Поддръжката е прекратена. Вижте насоките за миграцията по-долу.
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/31/2011
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 03/31/2011
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Информация за обслужване](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Клиентите трябва да останат актуални с най-новата актуализация на платформата срещу злонамерен софтуер, за да бъдат напълно поддържани. Forefront Endpoint Protection 2010 е обхванат от същите правила за жизнения цикъл като System Center Configuration Manager 2007 за основните и разширената поддръжка."

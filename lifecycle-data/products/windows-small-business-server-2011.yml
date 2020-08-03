@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Преглед на оригиналната на:395/29
+  description: Windows Small Business Server 2011 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848801"
+name: Преглед на оригиналната на:395/29
+summary: >
+  Windows Small Business Server 2011 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+  Това се отнася за следните издания: Essentials, Premium Добавка, Standard
+
+
+  > [!IMPORTANT]
+
+  > Датата на поддръжката за този продуктов пакет се определя от жизнения цикъл на отделния компонентен продукт. Моля, прегледайте жизнения цикъл на продукта, за да определите продължителността на поддръжката му.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/09/2011
+releases:
+- version: Original Release
+  startDate: 03/09/2011
+content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://aka.ms/AA1ovn4)\n* [Мигриране на Windows малък бизнес сървър 2011 стандарт за Windows Server основи](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Издания \n* Основни\n* Премиум добавка\n* Стандартна"

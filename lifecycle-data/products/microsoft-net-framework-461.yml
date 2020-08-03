@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 3014002'
+  description: Microsoft .NET Framework 4.6.1 следва правилата за жизнения цикъл на компонентите.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2580b80cbd1e031aa359befe7bbeefc69b40cd0f
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848712"
+name: 'Преглед на оригиналната статия на английски: 3014002'
+summary: >+
+  Microsoft .NET Framework 4.6.1 следва правилата за жизнения цикъл на [компонентите.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 11/30/2015
+releases:
+- version: Original Release
+  startDate: 11/30/2015
+content: "\n## <a name=\"links\"></a>Връзки \n* [ЧЗВ за жизнения цикъл на .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Информация за продукта](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-461)\n\n> [!NOTE]\n> .NET Framework е компонент на операционната система Windows. Компонентите получават същата поддръжка като техния родителски продукт или платформа."

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Wunderlist
+  description: Wunderlist следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848677"
+name: Wunderlist
+summary: "Wunderlist следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.\n\n\n> [!IMPORTANT]\n> Поддръжката на този продукт е предмет на условията на придобиването му. Поддръжката за този продукт е приключила. Вижте насоките за миграцията по-долу. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/02/2015
+  end: 05/06/2020
+  extendedEnd: 05/06/2020
+releases:
+- version: Original Release
+  startDate: 06/02/2015
+  endDate: 05/06/2020
+content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
