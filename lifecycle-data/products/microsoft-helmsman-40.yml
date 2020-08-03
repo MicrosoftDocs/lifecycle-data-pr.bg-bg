@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 301100'
+  description: Microsoft Хелмман 4.0 следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e873dcff7f9c115e7c0aa006d0a89b275f51c1a2
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805345"
+name: 'Преглед на оригиналната статия на английски: 301100'
+summary: >+
+  Microsoft Хелмман 4.0 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 10/30/2004
+  end: 01/13/2009
+  extendedEnd: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 10/30/2004
+  endDate: 01/14/2014
+content: ''
