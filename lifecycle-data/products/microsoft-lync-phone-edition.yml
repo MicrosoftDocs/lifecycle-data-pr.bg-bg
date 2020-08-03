@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Lync телефон издание
+  description: Microsoft Lync телефон издание следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
+  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/31/2020
+  ms.locfileid: "879479"
+name: Microsoft Lync телефон издание
+summary: >+
+  Microsoft Lync телефон издание следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/11/2023
+content: "\n## <a name=\"links\"></a>Връзки \n* [Допълнителна информация](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync телефон издание се поддържа с Lync Server 2010 и Lync Server 2013. Дата на поддръжката за Lync телефон издание е удължен 2 години, за да се приведе в съответствие с lync Server 2013 жизнен цикъл."
