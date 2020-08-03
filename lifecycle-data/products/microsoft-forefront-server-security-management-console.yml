@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Преглед на оригиналната статия на английски: 301460'
+  description: Конзолата за управление на сигурността на Microsoft на Forefront Server следва фиксираните правила за жизнения цикъл.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804974"
+name: 'Преглед на оригиналната статия на английски: 301460'
+summary: >+
+  Конзолата за управление на сигурността на Microsoft на Forefront Server следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/10/2008
+  end: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 01/10/2008
+  endDate: 04/08/2014
+content: ''
