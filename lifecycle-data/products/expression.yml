@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Израз
-  description: Изразът следва фиксираните правила за жизнения цикъл.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee3c7cfc6f62fb00775e13137084c8e509ac5d8c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Expression следва правилата за фиксиран жизнен цикъл.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867354"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893376"
 name: Израз
-summary: "Изразът следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.\n\nТова се отнася за следните издания: Blend, Design, Encoder, Студио\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. \n"
+summary: "Expression следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.\n\nТова се отнася за следните издания: бленда, дизайн, енкодер, студио\n\n> [!IMPORTANT]\n> Поддръжката за този продукт приключи. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Началната дата на израза Blend е 13 юли 2007. \n\n## <a name=\"editions\"></a>Издания \n* Смес\n* Дизайн\n* Енкодер\n* Студио"
+content: "\n\n> [!NOTE]\n> \"Начална дата\" за Expression Blend е 13 юли 2007 г. \n\n## <a name=\"editions\"></a>Издания \n* Смес\n* Дизайн\n* Енкодер\n* Студио"
