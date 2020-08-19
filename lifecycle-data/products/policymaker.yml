@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: PolicyMaker
+  description: Политиците следва правилата за фиксиран жизнен цикъл.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903845"
+name: PolicyMaker
+summary: >+
+  Политиците следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+
+
+  Това се отнася за следните издания: защита на приложения, версия на Outlook, професионална 9,0, разширение на системния регистър 2,0, Диспечер 1,0, софтуерна актуализация 1,0, актуализация на софтуера 2,0, стандартни 1,0, стандартни 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Поддръжката за този продукт е предмет на условията за неговото придобиване.\n\n## <a name=\"editions\"></a>Издания \n* Защита на приложения\n* Outlook Edition\n* Професионален 9,0\n* Разширение на системния регистър 2,0\n* Споделяне на диспечер 1,0\n* Software Update 1,0\n* Software Update 2,0\n* Стандарт 1,0\n* Стандарт 2,0"
