@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server
-  description: Windows Server следва модерните правила за жизнения цикъл.
+  description: Windows Server следва Модерните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867863"
 name: Windows Server
 summary: >+
-  Windows Server следва [модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+  Windows Server следва [Модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
 
 
-  Това се отнася за следните издания: Център за данни,
+  Това се отнася до следните издания: Datacenter, Standard
 
 products:
 - windows
@@ -40,4 +40,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Връзки \n* [Канали за обслужване на Windows Server: LTSC и SAC](/windows-server/get-started-19/servicing-channels-19)\n* [ЧЗВ за жизнения цикъл - Продукти на Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Актуализацията на Windows 10 от октомври (версия 1809) е пусната отново на 13 ноември 2018. Датите на поддръжка са съответно коригирани.\n\n## <a name=\"editions\"></a>Издания \n* Datacenter\n* Стандартна"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Канали за обслужване на Windows Server: LTSC и SAC](/windows-server/get-started-19/servicing-channels-19)\n* [ЧЗВ за жизнения цикъл – продукти на Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Актуализацията на Windows 10 от октомври (версия 1809) е издадена повторно на 13 ноември 2018 г. Датите за поддръжка са съответно коригирани.\n\n## <a name=\"editions\"></a>Издания \n* Datacenter\n* Standard"
