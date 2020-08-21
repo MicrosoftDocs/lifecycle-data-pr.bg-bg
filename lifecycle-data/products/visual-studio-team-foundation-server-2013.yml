@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio екип фондация сървър 2013
-  description: Visual Studio Team Foundation Server 2013 следва фиксираните правила за жизнения цикъл.
+  title: Visual Studio Team Foundation Server 2013
+  description: Visual Studio Team Foundation Server 2013 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848984"
-name: Visual Studio екип фондация сървър 2013
-summary: >+
-  Visual Studio Team Foundation Server 2013 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
-
-
-  Това се отнася за следните издания: Всички, Управление на
-
+name: Visual Studio Team Foundation Server 2013
+summary: "Visual Studio Team Foundation Server 2013 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл. \n\nТова се отнася до следните издания: Всички, Управление на версиите\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Информация за обслужване](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Правила за сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> За управление на сървъра за TFS 2013 актуализация 4 ще се поддържа правила насоки до 4/9/2024.\n\n## <a name=\"editions\"></a>Издания \n* Всички\n* Управление на изданията"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Информация за обслужването](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Правила за сервизни пакети](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> За Release Management Server за TFS 2013 актуализация 4 ще се поддържа съгласно насоките за правилата до 9 април 2024 г.\n\n## <a name=\"editions\"></a>Издания \n* Всички\n* Release Management"
