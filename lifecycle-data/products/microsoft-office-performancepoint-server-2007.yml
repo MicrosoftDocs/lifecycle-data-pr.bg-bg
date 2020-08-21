@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 3114222'
-  description: Производителността на Microsoft OfficePoint Server 2007 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Office PerformancePoint Server 2007
+  description: Microsoft Office PerformancePoint Server 2007 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: da215a3c725cf1387921080e1df0a6df52747517
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805304"
-name: 'Преглед на оригиналната статия на английски: 3114222'
+name: Microsoft Office PerformancePoint Server 2007
 summary: >+
-  Производителността на Microsoft OfficePoint Server 2007 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Office PerformancePoint Server 2007 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
-  Това се отнася за следните издания: 32 bit, 64-битова версия
+  Това се отнася до следните издания: 32-битова, 64-битова
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* 32-бита\n* 64-бита"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* 32-бита\n* 64-бита"

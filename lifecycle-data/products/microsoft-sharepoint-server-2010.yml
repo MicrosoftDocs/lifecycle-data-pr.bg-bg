@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 2998492'
-  description: Microsoft SharePoint Server 2010 следва фиксирани правила за жизнения цикъл.
+  title: Microsoft SharePoint Server 2010
+  description: Microsoft SharePoint Server 2010 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804372"
-name: 'Преглед на оригиналната статия на английски: 2998492'
+name: Microsoft SharePoint Server 2010
 summary: >+
-  Microsoft SharePoint Server 2010 следва [фиксирани](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft SharePoint Server 2010 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
-  Това се отнася за следните издания: услуги за достъп, всички приложими, Excel Services, Точка за изпълнение
+  Това се отнася до следните издания: Access Services, All applicable, Excel Services, Performance Point Services
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Връзки \n* [Разширение за поддръжка](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Насоки за миграцията](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Срокът на поддръжката на този продукт е удължен от 13 октомври 2020 г. до 13 април 2021 г.\n\n## <a name=\"editions\"></a>Издания \n* Услуги за достъп\n* Всички приложими\n* Услуги на Excel\n* Услуги за точка на изпълнение"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Удължаване на поддръжката](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Указания за мигриране](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Крайната дата на поддръжка на този продукт е удължена от 13 октомври 2020 г. до 13 април 2021 г.\n\n## <a name=\"editions\"></a>Издания \n* Access Services\n* All applicable\n* Excel Services\n* Performance Point Services"

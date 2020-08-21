@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Зимните
-  description: Winternals следва фиксираните правила за жизнения цикъл.
+  title: Winternals
+  description: Winternals следва Фиксираните правила за жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804475"
-name: Зимните
+name: Winternals
 summary: >+
-  Winternals следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Winternals следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнен цикъл.
 
 
-  Това се отнася за следните издания: администратор Pak 5.0, Defrag Manager 3.0, Защита мениджър 2.0, възстановяване мениджър 3.0
+  Това се отнася до следните издания: Administrator's Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, Recovery Manager 3.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Връзки \n* [Правила за жизнения цикъл за придобиване от Microsoft](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Изключва версиите, които преди това се поддържат. Поддръжката на този продукт е предмет на условията на придобиването му.\n\n## <a name=\"editions\"></a>Издания \n* Администраторът на Pak 5.0\n* Диспечер за дефрагментиране 3.0\n* Управление на защитата 2.0\n* Мениджър за възстановяване 3.0"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила за жизнен цикъл за придобивания на Microsoft](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Изключва версиите с премахнато по-рано поддръжка. Поддръжката за този продукт е обект на условията на неговото придобиване.\n\n## <a name=\"editions\"></a>Издания \n* Administrator's Pak 5.0\n* Defrag Manager 3.0\n* Protection Manager 2.0\n* Recovery Manager 3.0"

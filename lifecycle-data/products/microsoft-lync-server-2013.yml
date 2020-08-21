@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 2968499'
-  description: Microsoft Lync Server 2013 следва фиксирани жизнения цикъл правила.
+  title: Microsoft Lync Server 2013
+  description: Microsoft Lync Server 2013 следва Фиксираните правила за жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804640"
-name: 'Преглед на оригиналната статия на английски: 2968499'
-summary: >+
-  Microsoft Lync Server 2013 следва [фиксирани](/lifecycle/policies/fixed) жизнения цикъл правила.
-
-
-  Това се отнася за следните издания: Enterprise, Постоянен чат софтуерен развоен комплект, телефон, SDK, standard
-
+name: Microsoft Lync Server 2013
+summary: "Microsoft Lync Server 2013 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнен цикъл. \n\nТова се отнася до следните издания: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard\n\n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync телефон издание се поддържа с Lync Server 2010 и Lync Server 2013. Дата на поддръжката за Lync телефон издание е удължен 2 години, за да се приведе в съответствие с lync Server 2013 жизнен цикъл.\n\n## <a name=\"editions\"></a>Издания \n* Предприятие\n* Персистиращ чат софтуер за разработка комплект\n* Телефон\n* Sdk\n* Стандартна"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition се поддържа с Lync Server 2010 и Lync Server 2013. Датата на поддръжка за Lync Phone Edition е удължена с 2 години, за да се приведе в съответствие с  жизнен цикъл за Lync Server 2013.\n\n## <a name=\"editions\"></a>Издания \n* Enterprise\n* Комплект за софтуерна разработка за постоянен чат\n* Телефон\n* SDK\n* Standard"

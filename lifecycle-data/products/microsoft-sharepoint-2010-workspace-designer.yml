@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 3114599'
-  description: Microsoft SharePoint 2010 (работна област, дизайнер) следва фиксираните правила за жизнения цикъл.
+  title: Microsoft SharePoint 2010 (Workspace, Designer)
+  description: Microsoft SharePoint 2010 (Workspace, Designer) следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9d766264fa0494c9507c44a8af4743f375e13c53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804373"
-name: 'Преглед на оригиналната статия на английски: 3114599'
+name: Microsoft SharePoint 2010 (Workspace, Designer)
 summary: >+
-  Microsoft SharePoint 2010 (работна област, дизайнер) следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft SharePoint 2010 (Workspace, Designer) следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
-  Това се отнася за следните издания: дизайнер, работно пространство
+  Това се отнася до следните издания: Designer, Workspace
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Документация за разработчици](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Продуктова документация](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Издания \n* Дизайнер\n* Workspace"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Документация за разработчици](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Продуктова документация](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Издания \n* Designer\n* Workspace"

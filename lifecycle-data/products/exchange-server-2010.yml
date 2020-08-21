@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2010
-  description: Exchange Server 2010 следва фиксираните правила за жизнения цикъл.
+  description: Exchange Server 2010 следва фиксираните правила за жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5452228ee7f953f50a2f034c9cf646e7c85b53b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804416"
 name: Exchange Server 2010
-summary: >+
-  Exchange Server 2010 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
-
-
-  Това се отнася за следните издания:
-
+summary: "Exchange Server 2010 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнен цикъл. \n\nТова се отнася до следните издания: Enterprise, Standard\n\n"
 products:
 - office
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/09/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Връзки \n* [Разширение на датата](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Microsoft-Extending-End-of-Support-for-Exchange-Server-2010-to/ba-p/753591)\n* [Насоки за миграцията](https://blogs.technet.microsoft.com/exchange/2018/04/10/exchange-2010-end-of-support-is-coming/)\n\n> [!NOTE]\n> Жизненият цикъл за Exchange Server 2010 е удължен.\n\n## <a name=\"editions\"></a>Издания \n* Предприятие\n* Стандартна"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Разширение на датата](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Microsoft-Extending-End-of-Support-for-Exchange-Server-2010-to/ba-p/753591)\n* [Указания за мигриране](https://blogs.technet.microsoft.com/exchange/2018/04/10/exchange-2010-end-of-support-is-coming/)\n\n> [!NOTE]\n> Жизненият цикъл за Exchange Server 2010 е удължен.\n\n## <a name=\"editions\"></a>Издания \n* Enterprise\n* Standard"

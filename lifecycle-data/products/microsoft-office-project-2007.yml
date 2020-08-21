@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 2968999'
-  description: Microsoft Office Project 2007 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Office Project 2007
+  description: Microsoft Office Project 2007 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36bad214333805bfa18d06a194e9a5748a70baa1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804957"
-name: 'Преглед на оригиналната статия на английски: 2968999'
+name: Microsoft Office Project 2007
 summary: >+
-  Microsoft Office Project 2007 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Office Project 2007 следва  [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
-  Това се отнася за следните издания: Професионални, Стандартни
+  Това се отнася до следните издания: Professional, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/office/troubleshoot/support/office-2007-not-support)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Професионални\n* Стандартна"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/office/troubleshoot/support/office-2007-not-support)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Professional\n* Standard"

@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 2998599'
-  description: Microsoft Office Outlook 2007 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Office Outlook 2007
+  description: Microsoft Office Outlook 2007 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 055e54e56049aef38f71fd906c5af6438674032a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805305"
-name: 'Преглед на оригиналната статия на английски: 2998599'
-summary: >+
-  Microsoft Office Outlook 2007 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
-
-
-  Това се отнася за следните издания: Стандарт, с Business Contact Manager, с
-
+name: Microsoft Office Outlook 2007
+summary: "Microsoft Office Outlook 2007 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл. \n\nТова се отнася до следните издания: Standard, с Business Contact Manager, с Interconnect\n\n"
 products:
 - office
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Издания \n* Стандартна\n* с Мениджър за бизнес контакти\n* с връзка"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Издания \n* Standard\n* с Business Contact Manager\n* с Interconnect"

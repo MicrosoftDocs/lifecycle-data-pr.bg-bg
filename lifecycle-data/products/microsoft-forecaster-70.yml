@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 3111111'
-  description: Microsoft задания 7.0 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 следва Фиксираните правила за жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804979"
-name: 'Преглед на оригиналната статия на английски: 3111111'
-summary: >+
-  Microsoft задания 7.0 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
-
-
+name: Microsoft Forecaster 7.0
+summary: "Microsoft Forecaster 7.0 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнен цикъл. \n\n\n"
 products:
 - dynamics
 policyType: fixed
@@ -40,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Поддръжката на прогнози завършва на посочената дата, освен ако е разпределен като компонент на продукт на Dynamics. Когато се разпространява с продукт на Dynamics, датите на жизнения цикъл на Dynamics отменят датата на прогнозиращия."
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Поддръжката на Forecaster приключва на посочената дата, освен ако не се разпространява като компонент на продукт на Dynamics. Когато се разпространява с продукт на Dynamics, датите на жизнения цикъл на Dynamics отменят датата на  Forecaster."

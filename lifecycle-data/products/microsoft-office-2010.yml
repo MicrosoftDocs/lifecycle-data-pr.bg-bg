@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 2998499'
-  description: Microsoft Office 2010 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Office 2010
+  description: Microsoft Office 2010 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804635"
-name: 'Преглед на оригиналната статия на английски: 2998499'
+name: Microsoft Office 2010
 summary: >+
-  Microsoft Office 2010 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Office 2010 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
-  Това важи за следните издания: eAcademy, Home and Business, Home and Student, Персонални, Професионални, Професионални Академик, Професионален плюс, Програма за професионално ползване на дома, Стандартно, Стартер
+  Това важи за следните издания: eAcademy, Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Връзки \n* [Пътна карта за край на поддръжката на Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Академия\n* Начало и бизнес\n* Начало и студент\n* Лични\n* Професионални\n* Професионален академичен\n* Професионален плюс\n* Програма за професионално използване на дома\n* Стандартна\n* Начинаещи"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Пътна карта на края на поддръжката на Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* eAcademy\n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Professional Plus, програма за използване в домашни условия\n* Standard\n* Starter"

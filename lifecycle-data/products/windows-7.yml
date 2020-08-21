@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "7"
-  description: Windows 7 следва фиксираните правила за жизнения цикъл.
+  title: Windows 7
+  description: Windows 7 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804335"
-name: "7"
-summary: "Windows 7 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.\n\nТова важи за следните издания: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Професионален, Професионален за вградени системи, Професионални N, Стартер, Стартер N, Ultimate, Ultimate за вградени системи, Ultimate N\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. Вижте насоките за миграцията по-долу. \n"
+name: Windows 7
+summary: "Windows 7 следва  [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.\n\nТова се отнася до следните издания: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. Вижте указанията за миграцията по-долу. \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> \"* Разширените актуализации на защитата (ESU) се предлагат чрез специфични програми за корпоративно лицензиране за Windows 7 Professional, Enterprise и Professional for Embedded Systems издания на този продукт, за срок до още три години след края на поддръжката. Свържете се с вашия партньор или екип на акаунт в Microsoft, за да научите повече. \n\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://support.microsoft.com/help/4057281)\n* [Надстройване от Windows 7 до Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Разширена програма за актуализация на защитата (ESU)](/lifecycle/faq/extended-security-updates)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Предприятие\n* Предприятие N\n* Начало Основни\n* Домашен премиум\n* Домашен премиум N\n* Професионални\n* Професионални за вградени системи\n* Професионална N\n* Начинаещи\n* Стартер N\n* Последен\n* Крайната за вградени системи\n* Върховната N"
+content: "> [!TIP]\n> * Разширените актуализации на защитата (ESU) са налични през специфични програми за корпоративно лицензиране за изданията Windows 7 Professional, Enterprise и Professional for Embedded Systems на този продукт в продължение на до три допълнителни години след края на поддръжката. Свържете се с вашия партньор на Microsoft или екип за акаунта, за да научите повече. \n\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://support.microsoft.com/help/4057281)\n* [Надстройване от Windows 7 до Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Програма за разширена актуализация на защитата (ESU)](/lifecycle/faq/extended-security-updates)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional for Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate for Embedded Systems\n* Ultimate N"

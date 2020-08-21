@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft приложение за виртуализация хостинг 4.5 за Windows настолни компютри
-  description: Microsoft приложение за виртуализация хостинг 4.5 за Windows настолни компютри следва фиксирани правила за жизнения цикъл.
+  title: Microsoft Application Virtualization Hosting 4.5 за настолни компютри с Windows
+  description: Microsoft Application Virtualization Hosting 4.5 за настолни компютри с Windows следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805045"
-name: Microsoft приложение за виртуализация хостинг 4.5 за Windows настолни компютри
+name: Microsoft Application Virtualization Hosting 4.5 за настолни компютри с Windows
 summary: >
-  Microsoft приложение за виртуализация хостинг 4.5 за Windows настолни компютри следва [фиксирани](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Application Virtualization Hosting 4.5 за настолни компютри с Windows следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
-  Това се отнася за следните издания: за работни плотове на Windows
+  Това се отнася за следните издания: за настолни компютри с Windows
 
 
   > [!IMPORTANT]
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта и миграцията](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* за работни плотове на Windows"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта и миграцията](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* за работен плот на Windows"
