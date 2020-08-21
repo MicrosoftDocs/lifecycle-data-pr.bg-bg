@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Предприятие и образование
-  description: Windows 10 Enterprise и образованието следват модерните правила за жизнения цикъл.
+  title: Windows 10 Enterprise и Education
+  description: Windows 10 Enterprise и Education следват Модерните правила за жизнен цикъл.
   ms.date: 07/30/2020
   ms.openlocfilehash: 959937e0ef4ac9c0cc65ecb1a6ef8aa332a835a8
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879113"
-name: Windows 10 Предприятие и образование
-summary: >
-  Windows 10 Enterprise и образованието следват [модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
-
-
-  Това се отнася за следните издания: Образование,
-
-
-  > [!IMPORTANT]
-
-  > Microsoft ще продължи да поддържа поне един полугодишен канал на Windows 10 до 14 октомври 2025 г.
+name: Windows 10 Enterprise и Education
+summary: "Windows 10 Enterprise и Education следват [Модерните](/lifecycle/policies/modern) правила за жизнен цикъл. \n\nТова се отнася до следните издания: Education, Enterprise\n\n> [!IMPORTANT]\n> Microsoft ще продължи да поддържа поне един полугодишен канал на Windows 10 до 14 октомври 2025 г.\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +48,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Връзки \n* [Windows като услуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Информация за продукта](/windows/windows-10/)\n* [Лист с факти за жизнения цикъл на Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [ЧЗВ за жизнения цикъл - Продукти на Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Освен ако не е отложено, следващите актуализации на функциите на Windows 10 полугодишни канали могат да бъдат инсталирани преди посочената край на базова поддръжка дата.\n\n## <a name=\"editions\"></a>Издания \n* Образование\n* Предприятие"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Windows като услуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Информация за продукта](/windows/windows-10/)\n* [Лист с факти за жизнения цикъл на Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [ЧЗВ за жизнения цикъл – продукти на Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Освен ако не бъдат отложени, последващите актуализации на функциите на полугодишния канал на Windows 10 може да бъдат инсталирани преди посочения край на датата на базовата поддръжка.\n\n## <a name=\"editions\"></a>Издания \n* Education\n* Enterprise"

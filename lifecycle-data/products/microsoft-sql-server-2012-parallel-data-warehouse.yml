@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Прегледайте оригиналната статия на английски: 301199'
-  description: Microsoft SQL Server 2012 паралелни данни склад (система за анализ платформа) следва фиксирани жизнения цикъл правила.
+  title: Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System)
+  description: Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System) следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 78651a46cb453708bccc394e512756a7c24b599d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867857"
-name: 'Прегледайте оригиналната статия на английски: 301199'
+name: Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System)
 summary: >
-  Microsoft SQL Server 2012 паралелни данни склад (система за анализ платформа) следва [фиксирани](/lifecycle/policies/fixed) жизнения цикъл правила.
+  Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System) следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
 
   > [!IMPORTANT]
 
-  > SQL Server 2012 паралелни данни склад (PDW) е преоформен като APS (система за анализ платформа)
+  > SQL Server 2012 Parallel Data Warehouse (PDW) се ребрандира като APS (Analytics Platform System).
 products:
 - sql-server
 policyType: fixed

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8.1 промишленост
-  description: Windows Embedded 8.1 промишленост следва фиксираните правила за жизнения цикъл.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 06229993442080153b64e34bc290b48b6fc1e05d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Windows Embedded 8,1 промишленост
+  description: Windows Embedded 8,1 Industry следва правилата за фиксиран жизнен цикъл.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: f18f36a1692ef77948c82bce5d1b0a0208c3dc9d
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849069"
-name: Windows Embedded 8.1 промишленост
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906904"
+name: Windows Embedded 8,1 промишленост
 summary: >+
-  Windows Embedded 8.1 промишленост следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows Embedded 8,1 Industry следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
 
 
-  Това се отнася за следните издания:
+  Това се отнася за следните издания: Enterprise, Pro, страничен
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Връзки \n* [ЧЗВ за жизнения цикъл - Продукти на Windows](https://support.microsoft.co/help/18581)\n* [ЧЗВ за вградения Windows 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Издания \n* Предприятие\n* Pro"
+content: "\n## <a name=\"links\"></a>Връзки \n* [ЧЗВ за жизнения цикъл – продукти от Windows](https://support.microsoft.co/help/18581)\n* [ЧЗВ за Windows Embedded 8,1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Издания \n* Enterprise\n* Pro\n* Страничен"
