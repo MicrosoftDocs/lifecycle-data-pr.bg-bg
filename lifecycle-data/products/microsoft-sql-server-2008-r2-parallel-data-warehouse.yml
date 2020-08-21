@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 3111222'
-  description: Microsoft SQL Server 2008 R2 паралелни данни склад следва фиксирани жизнения цикъл правила.
+  title: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
+  description: Microsoft SQL Server 2008 R2 Parallel Data Warehouse следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804601"
-name: 'Преглед на оригиналната статия на английски: 3111222'
+name: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
 summary: >+
-  Microsoft SQL Server 2008 R2 паралелни данни склад следва [фиксирани](/lifecycle/policies/fixed) жизнения цикъл правила.
+  Microsoft SQL Server 2008 R2 Parallel Data Warehouse следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
 products:

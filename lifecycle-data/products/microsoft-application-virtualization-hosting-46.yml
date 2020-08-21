@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft приложение за виртуализация хостинг 4.6 за Windows настолни компютри
-  description: Microsoft приложение за виртуализация хостинг 4.6 за Windows настолни компютри следва фиксирани правила за жизнения цикъл.
+  title: Приложение за виртуализация на Microsoft 4.6 за настолни компютри Windows
+  description: Microsoft Application Virtualization Hosting 4.6 за настолни компютри с Windows следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805044"
-name: Microsoft приложение за виртуализация хостинг 4.6 за Windows настолни компютри
+name: Приложение за виртуализация на Microsoft 4.6 за настолни компютри Windows
 summary: >+
-  Microsoft приложение за виртуализация хостинг 4.6 за Windows настолни компютри следва [фиксирани](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Application Virtualization Hosting 4.6 за настолни компютри с Windows следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
-  Това се отнася за следните издания: за работни плотове на Windows
+  Това се отнася за следните издания: за настолни компютри с Windows
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта и миграцията](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Тъй като App-V 4.6 клиент използва App-V 4.5 сървър, App-V 4.5 сървър ще продължи да се поддържа според жизнения цикъл на App-V 4.6, когато се използва с поддържания App-V 4.6 клиент.\n\n## <a name=\"editions\"></a>Издания \n* за работни плотове на Windows"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта и миграцията](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Тъй като клиентът App-V 4.6 използва App-V 4.5 Server, App-V 4.5 Server ще продължи да се поддържа спрямо жизнения цикъл на App-V 4.6, когато се използва с поддържания App-V 4.6 клиент.\n\n## <a name=\"editions\"></a>Издания \n* за работен плот на Windows"

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2008 за windows основни решения за сървър
-  description: Windows Server 2008 за решения за основен сървър за Windows следва фиксираните правила за жизнения цикъл.
+  title: Windows Server 2008 за Windows Essential Server Solutions
+  description: Windows Server 2008 за Windows Essential Server Solutions следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: a0f008702c636963333da20217a32768124fe020
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804830"
-name: Windows Server 2008 за windows основни решения за сървър
+name: Windows Server 2008 за Windows Essential Server Solutions
 summary: >
-  Windows Server 2008 за решения за основен сървър за Windows следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows Server 2008 за Windows Essential Server Solutions следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
-  Това се отнася за следните издания: Стандартни, без
+  Това се отнася до следните издания: Standard без Hyper-V
 
 
   > [!IMPORTANT]
 
-  > Поддръжката за този продукт е приключила. Вижте насоките за миграцията по-долу.
+  > Поддръжката за този продукт е приключила. Вижте указанията за миграцията по-долу.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/18/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://aka.ms/AA1ovn4)\n* [Информация за продукта](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Издания \n* Стандартна\n* без хипер-V"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://aka.ms/AA1ovn4)\n* [Информация за продукта](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Издания \n* Standard\n* без Hyper-V"

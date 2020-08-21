@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 301499'
-  description: Microsoft System Center Configuration Manager 2007 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft System Center Configuration Manager 2007
+  description: Microsoft System Center Configuration Manager 2007 следва Фиксираните правила за жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804925"
-name: 'Преглед на оригиналната статия на английски: 301499'
+name: Microsoft System Center Configuration Manager 2007
 summary: >
-  Microsoft System Center Configuration Manager 2007 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft System Center Configuration Manager 2007 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнен цикъл.
 
 
 
   > [!IMPORTANT]
 
-  > Поддръжката за този продукт е приключила. Вижте насоките за миграцията по-долу.
+  > Поддръжката за този продукт е приключила. Вижте указанията за миграцията по-долу.
 products:
 - msc
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Информация за продукта](/mem/configmgr/core/understand/introduction)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Информация за продукта](/mem/configmgr/core/understand/introduction)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)"

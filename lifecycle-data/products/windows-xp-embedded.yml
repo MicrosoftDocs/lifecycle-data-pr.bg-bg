@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Вградена в Windows XP
-  description: Windows XP Embedded следва фиксираните правила за жизнения цикъл.
+  title: Windows XP Embedded
+  description: Windows XP Embedded следва Фиксираните правила за жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804477"
-name: Вградена в Windows XP
-summary: >
-  Windows XP Embedded следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
-
-
-  Това се отнася за следните издания: вграден
-
-
-  > [!IMPORTANT]
-
-  > Поддръжката за този продукт е приключила.
+name: Windows XP Embedded
+summary: "Windows XP Embedded следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнен цикъл. \n\nТова се отнася до следните издания: Embedded\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила.\n"
 products:
 - windows
 policyType: fixed
@@ -40,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Връзки \n* [Поддръжка на Windows XP Вградена](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Издания \n* Вградени"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Поддръжка на Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Издания \n* Embedded"

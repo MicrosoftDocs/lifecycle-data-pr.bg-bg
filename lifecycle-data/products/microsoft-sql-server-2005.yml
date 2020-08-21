@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 2998499'
-  description: Microsoft SQL Server 2005 следва фиксирани правила за жизнения цикъл.
+  title: Microsoft SQL Server 2005
+  description: Microsoft SQL Server 2005 следва Фиксираните правила за жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804521"
-name: 'Преглед на оригиналната статия на английски: 2998499'
-summary: >
-  Microsoft SQL Server 2005 следва [фиксирани](/lifecycle/policies/fixed) правила за жизнения цикъл.
-
-
-  Това се отнася за следните издания: Компактен, разработчик, вграден, Enterprise, Enterprise за Itanium базирани системи, Enterprise X64, Express, Express с разширени услуги, стандарт, стандарт за itanium базирани системи, стандарт X64, Работна група
-
-
-  > [!IMPORTANT]
-
-  > Поддръжката за този продукт е приключила. Вижте насоките за миграцията по-долу.
+name: Microsoft SQL Server 2005
+summary: "Microsoft SQL Server 2005 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл. \n\nТова се отнася до следните издания: Compact, Developer, Embedded, Enterprise, Enterprise за Itanium базирани системи, Enterprise X64, Express, Express с разширени услуги, Standard, Standard за Itanium базирани системи, Standard X64, Workgroup\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. Вижте указанията за миграцията по-долу.\n"
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition, издаден на 19 февруари 2007 г.\n\n## <a name=\"editions\"></a>Издания \n* Компактен\n* Разработчик\n* Вградени\n* Предприятие\n* Предприятие за itanium базирани системи\n* Предприятие X64\n* Експресно\n* Експрес с разширени услуги\n* Стандартна\n* Стандарт за itanium базирани системи\n* Стандартна стая X64\n* Работна група"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition, издадено на 19 февруари 2007 г.\n\n## <a name=\"editions\"></a>Издания \n* Compact\n* Developer\n* Embedded\n* Enterprise\n* Enterprise за Itanium базирани системи\n* Enterprise X64\n* Express\n* Express with Advanced Services\n* Standard\n* Standard за Itanium базирани системи\n* Standard X64\n* Workgroup"

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio екипна система 2008
-  description: Visual Studio екип система 2008 следва фиксираните правила за жизнения цикъл.
+  title: Visual Studio Team System 2008
+  description: Visual Studio Team System 2008 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804861"
-name: Visual Studio екипна система 2008
+name: Visual Studio Team System 2008
 summary: >
-  Visual Studio екип система 2008 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Visual Studio Team System 2008 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
-  Това се отнася за следните издания: Всички, Архитектура, База данни, Развитие, Team Explorer, Екип тест натоварване агент
+  Това се отнася до следните издания: All, Architecture, Database, Development, Team Explorer, Team Test Load Agent
 
 
   > [!IMPORTANT]
 
-  > Поддръжката е прекратена. Вижте насоките за миграцията по-долу.
+  > Поддръжката е приключила. Вижте указанията за миграцията по-долу.
 products:
 - vs
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Насоки за миграцията](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Всички\n* Архитектура\n* База данни\n* Развитие\n* Екипно изследовател\n* Агент за натоварване на екип"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Указания за мигриране](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Всички\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent"

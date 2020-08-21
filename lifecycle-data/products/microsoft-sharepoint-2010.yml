@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Прегледайте оригиналната статия на английски език: 298000000000000000000000'
-  description: Microsoft SharePoint 2010 (за интернет сайтове) следва фиксираните правила за жизнения цикъл.
+  title: Microsoft SharePoint 2010 (за интернет сайтове)
+  description: Microsoft SharePoint 2010 (за интернет сайтове) следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804937"
-name: 'Прегледайте оригиналната статия на английски език: 298000000000000000000000'
+name: Microsoft SharePoint 2010 (за интернет сайтове)
 summary: >+
-  Microsoft SharePoint 2010 (за интернет сайтове) следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft SharePoint 2010 (за интернет сайтове) следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
-  Това се отнася за следните издания: за интернет сайтове предприятие, за интернет сайтове стандартни
+  Това се отнася за следните издания: за Internet Sites Enterprise, за Internet Sites Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Връзки \n* [Продуктова документация](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Документация за разработчици](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Срокът на поддръжката на този продукт е удължен от 13 октомври 2020 г. до 13 април 2021 г.\n\n## <a name=\"editions\"></a>Издания \n* за интернет сайтове предприятие\n* за интернет сайтове стандарт"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Продуктова документация](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Документация за разработчици](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Крайната дата на поддръжка на този продукт е удължена от 13 октомври 2020 г. до 13 април 2021 г.\n\n## <a name=\"editions\"></a>Издания \n* за Internet Sites Enterprise\n* за Internet Sites Standard"

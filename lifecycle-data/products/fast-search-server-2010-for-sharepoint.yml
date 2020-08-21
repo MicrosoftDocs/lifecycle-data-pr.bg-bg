@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: БЪРЗО търсене сървър 2010 (за SharePoint, за интернет сайтове на SharePoint)
-  description: БЪРЗО търсене сървър 2010 (за SharePoint, за SharePoint интернет сайтове) следва фиксирани жизнения цикъл правила.
+  title: FAST Search Server 2010 (за SharePoint, за SharePoint Internet Sites)
+  description: FAST Search Server 2010 (за SharePoint, за SharePoint Internet Sites) следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a2c66a5a5e5b2ffc3fbbf82d4a96803e06ee2e5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805093"
-name: БЪРЗО търсене сървър 2010 (за SharePoint, за интернет сайтове на SharePoint)
-summary: >+
-  БЪРЗО търсене сървър 2010 (за SharePoint, за SharePoint интернет сайтове) следва [фиксирани](/lifecycle/policies/fixed) жизнения цикъл правила.
-
-
-  Това се отнася за следните издания: за SharePoint, за сайтове на SharePoint за интернет
-
+name: FAST Search Server 2010 (за SharePoint, за SharePoint Internet Sites)
+summary: "FAST Search Server 2010 (за SharePoint, за SharePoint Internet Sites) следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл. \n\nТова се отнася за следните издания: за SharePoint, за SharePoint Internet Sites\n\n"
 products:
 - office
 policyType: fixed
@@ -33,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Изключва версиите, които преди това се поддържат. Поддръжката на този продукт е предмет на условията на придобиването му.\n\n## <a name=\"editions\"></a>Издания \n* за SharePoint\n* за интернет сайтове на SharePoint"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Изключва версиите с премахнато по-рано поддръжка. Поддръжката за този продукт е обект на условията на неговото придобиване.\n\n## <a name=\"editions\"></a>Издания \n* за SharePoint\n* за SharePoint Internet Sites"

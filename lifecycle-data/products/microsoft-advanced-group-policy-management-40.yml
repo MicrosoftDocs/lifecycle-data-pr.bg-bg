@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft разширено управление на груповите правила 4.0
-  description: Microsoft разширено управление на груповите правила 4.0 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Advanced Group Policy Management 4.0
+  description: Microsoft Advanced Group Policy Management 4.0 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805057"
-name: Microsoft разширено управление на груповите правила 4.0
+name: Microsoft Advanced Group Policy Management 4.0
 summary: >+
-  Microsoft разширено управление на груповите правила 4.0 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Advanced Group Policy Management 4.0 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Връзки \n* [Опит с информация за MDOP](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за работата с MDOP](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)"
