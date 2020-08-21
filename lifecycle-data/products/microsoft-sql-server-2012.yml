@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 2964422'
-  description: Microsoft SQL Server 2012 следва фиксирани правила за жизнения цикъл.
+  title: Microsoft SQL Server 2012
+  description: Microsoft SQL Server 2012 следва Фиксираните правила за жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848699"
-name: 'Преглед на оригиналната статия на английски: 2964422'
-summary: >+
-  Microsoft SQL Server 2012 следва [фиксирани](/lifecycle/policies/fixed) правила за жизнения цикъл.
-
-
-  Това важи за следните издания: Business Intelligence, Разработчик, Enterprise, Корпоративно ядро, Експрес, за вградени системи, Стандартни, Уеб
-
+name: Microsoft SQL Server 2012
+summary: "Microsoft SQL Server 2012 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнен цикъл. \n\nТова се отнася до следните издания: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, for Embedded Systems, Standard, Web\n\n"
 products:
 - sql-server
 policyType: fixed
@@ -39,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Бизнес разузнаване\n* Разработчик\n* Предприятие\n* Корпоративно ядро\n* Експресно\n* за вградени системи\n* Стандартна\n* Уеб"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* for Embedded Systems\n* Standard\n* Web"

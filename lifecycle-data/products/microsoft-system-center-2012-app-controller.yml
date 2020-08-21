@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 31112222'
-  description: Контролерът на Microsoft system Center 2012 приложение следва фиксираните правила за жизнения цикъл.
+  title: Microsoft System Center 2012 App Controller
+  description: Microsoft System Center 2012 App Controller следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848820"
-name: 'Преглед на оригиналната статия на английски: 31112222'
+name: Microsoft System Center 2012 App Controller
 summary: >+
-  Контролерът на Microsoft system Center 2012 приложение следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft System Center 2012 App Controller следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за системния център](/system-center/#pivot=components&panel=components-all)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft система център 2012 се състои от компоненти: Конфигурация мениджър данни защита мениджър операции мениджър оркестрация управление управление управление услуги управление на услуги автоматизация виртуална машина мениджър доставчик на услуги фондация"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за System Center](/system-center/#pivot=components&panel=components-all)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 се състои от следните компоненти: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation"
