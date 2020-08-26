@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Данни за продукта Dynamics 365
+  description: Динамиката на продукта Dynamics 365 следва съвременната политика за жизнен цикъл.
+  ms.date: 08/25/2020
+  ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
+  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
+  ms.translationtype: MT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 08/26/2020
+  ms.locfileid: "911326"
+name: Данни за продукта Dynamics 365
+summary: >+
+  Динамиката на продукта Dynamics 365 следва [съвременната](/lifecycle/policies/modern) политика за жизнен цикъл.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 10/01/2019
+releases:
+- version: Original Release
+  startDate: 10/01/2019
+content: ''
