@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Виртуален сървър 2005
-  description: Виртуалният сървър 2005 следва фиксираните правила за жизнения цикъл.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 23b86f98da1cbf486ae6b21eefca8d06eaf1361c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Виртуален сървър 2005 следва правилата за фиксиран жизнен цикъл.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Management Pack,Standard
+  ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "804501"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937880"
 name: Виртуален сървър 2005
 summary: >+
-  Виртуалният сървър 2005 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Виртуален сървър 2005 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
 
 
-  Това се отнася за следните издания: Предприятие, пакет за управление,
+  Това се отнася за следните издания: Enterprise, Management Pack, Standard
 
 products:
 - windows
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Издания \n* Предприятие\n* Пакет за управление\n* Стандартна"
+content: "\n\n\n## <a name=\"editions\"></a>Издания \n* Enterprise\n* Пакет за управление\n* Standard"
