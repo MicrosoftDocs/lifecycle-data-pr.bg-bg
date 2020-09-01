@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 2998499'
-  description: Microsoft Office Publisher 2003 следва фиксираните правила за жизнения цикъл.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dc74fbb4c7ad1e9d6e27b507d00c15aadd1665dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Office Publisher 2003
+  description: Microsoft Office Publisher 2003 следва правилата за фиксиран жизнен цикъл.
+  ms.date: 09/01/2020
+  keywords: Standard,with Digital Imaging
+  ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "804952"
-name: 'Преглед на оригиналната статия на английски: 2998499'
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930332"
+name: Microsoft Office Publisher 2003
 summary: >+
-  Microsoft Office Publisher 2003 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Office Publisher 2003 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
 
 
-  Това се отнася за следните издания: Стандарт, с
+  Това се отнася за следните издания: стандартно, с цифрови изображения
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Издания \n* Стандартна\n* с цифрови изображения"
+content: "\n\n\n## <a name=\"editions\"></a>Издания \n* Standard\n* с цифрови изображения"
