@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 следва Фиксираните правила за жизнен цикъл.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Datacenter,Datacenter without Hyper-V,Enterprise,Enterprise without Hyper-V,for Itanium-Based Systems,Foundation,Standard,Standard without Hyper-V,Web
+  ms.openlocfilehash: 30b07c95bb7d37ab822e5e2238983fd70d918889
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805201"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939508"
 name: Windows Server 2008
 summary: "Windows Server 2008 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнен цикъл. \n\nТова се отнася до следните издания: Datacenter, Datacenter без Hyper-V, Enterprise, Enterprise без Hyper-V, за Itanium-базирани системи, Foundation, Standard, Standard без Hyper-V, Web\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. Вижте указанията за миграцията по-долу.\n"
 products:
