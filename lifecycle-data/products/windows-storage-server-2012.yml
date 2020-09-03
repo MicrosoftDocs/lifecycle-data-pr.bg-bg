@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Сървър за съхранение на Windows 2012
-  description: Windows storage Server 2012 следва фиксираните правила за жизнения цикъл.
+  title: Windows Storage Server 2012
+  description: Windows Storage Server 2012 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: ff27c05566c461244c14b45f75ef07a6ad47f6db
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848625"
-name: Сървър за съхранение на Windows 2012
+name: Windows Storage Server 2012
 summary: >+
-  Windows storage Server 2012 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows Storage Server 2012 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася за следните издания: стандартни, работна група
+  Това се отнася за следните издания: Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Базовата и разширена поддръжка за този продукт е разширена, за да предостави на клиентите стандартната времева линия за преход на жизнения цикъл.\n\n## <a name=\"editions\"></a>Издания \n* Стандартна\n* Работна група"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Базовата и разширена поддръжка за този продукт е удължена, за да предостави на клиентите стандартната времева линия за преход на жизнения цикъл.\n\n## <a name=\"editions\"></a>Издания \n* Standard\n* Workgroup"

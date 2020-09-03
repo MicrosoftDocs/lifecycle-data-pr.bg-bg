@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 3111422'
-  description: Microsoft Система център 2012 R2 Configuration Manager следва фиксирани правила за жизнения цикъл.
+  title: Microsoft System Center 2012 R2 Configuration Manager
+  description: Microsoft System Center 2012 R2 Configuration Manager следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61515e636a9af310a2107c9505067fa551d26b15
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848702"
-name: 'Преглед на оригиналната статия на английски: 3111422'
+name: Microsoft System Center 2012 R2 Configuration Manager
 summary: >+
-  Microsoft Система център 2012 R2 Configuration Manager следва [фиксирани](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft System Center 2012 R2 Configuration Manager следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n* [Документация за диспечера на конфигурация](/mem/configmgr/core/misc/online-documentation)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n* [Документация за конфигурационен диспечер](/mem/configmgr/core/misc/online-documentation)"
