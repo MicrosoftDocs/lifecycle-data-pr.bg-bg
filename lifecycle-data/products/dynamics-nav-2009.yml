@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics NAV 2009
-  description: Dynamics NAV 2009 следва фиксираните правила за жизнения цикъл.
+  description: Dynamics NAV 2009 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91dc4515ba59f72b52cc7c9d517407dfaf552702
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805103"
 name: Dynamics NAV 2009
 summary: >+
-  Dynamics NAV 2009 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Dynamics NAV 2009 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/12/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n* [Повече информация](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Краят на датите на поддръжка за НСА 2009 се удължава, както е показано."
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n* [Повече информация](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Краят на датите на поддръжка за NAV 2009 се удължава, както е показано."

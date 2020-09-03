@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Operations Manager (МАМА) 2005
-  description: Microsoft Operations Manager (MOM) 2005 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Operations Manager (MOM) 2005
+  description: Microsoft Operations Manager (MOM) 2005 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537a6fbd4ff1d9f82a9ffd0dcd3b456bee05cc55
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804379"
-name: Microsoft Operations Manager (МАМА) 2005
+name: Microsoft Operations Manager (MOM) 2005
 summary: >
-  Microsoft Operations Manager (MOM) 2005 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Operations Manager (MOM) 2005 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася за следните издания: работна група
+  Това се отнася до следните издания: Workgroup
 
 
   > [!IMPORTANT]
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2004
   endDate: 10/10/2006
-content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n* [Мениджър операции](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Издания \n* Работна група\n\nключови думи: MOM"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n* [Operations Manager](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Издания \n* Workgroup\n\nключови думи:  MOM"

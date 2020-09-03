@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 2998999'
-  description: Microsoft Office Publisher 2007 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Office Publisher 2007
+  description: Microsoft Office Publisher 2007 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9e01522f77b919b6d35a61fbffa27a2b761a5a4d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804951"
-name: 'Преглед на оригиналната статия на английски: 2998999'
+name: Microsoft Office Publisher 2007
 summary: >+
-  Microsoft Office Publisher 2007 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Office Publisher 2007 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/office/troubleshoot/support/office-2007-not-support)"

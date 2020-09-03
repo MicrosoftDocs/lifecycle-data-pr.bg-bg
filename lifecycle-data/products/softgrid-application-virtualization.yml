@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Софтуерна виртуализация на приложения
-  description: Виртуализацията на приложенията SoftGrid следва фиксираните правила за жизнения цикъл.
+  title: SoftGrid Application Virtualization
+  description: SoftGrid Application Virtualization следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804346"
-name: Софтуерна виртуализация на приложения
+name: SoftGrid Application Virtualization
 summary: >
-  Виртуализацията на приложенията SoftGrid следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  SoftGrid Application Virtualization следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася за следните издания: 4.1 за настолни компютри, 4.2 за настолни компютри, за терминални услуги 4.1
+  Това се отнася до следните издания: 4.1 за работни плотове, 4.2 за работни плотове, за терминални услуги 4.1
 
 
   > [!IMPORTANT]
 
-  > Поддръжката е прекратена. Вижте насоките за миграцията по-долу.
+  > Поддръжката е приключила. Вижте указанията за миграцията по-долу.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Издания \n* 4.1 за настолни компютри\n* 4.2 за настолни компютри\n* за Терминални услуги 4.1"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Издания \n* 4.1 за работни плотове\n* 4.2 за работни плотове\n* за терминални услуги 4.1"

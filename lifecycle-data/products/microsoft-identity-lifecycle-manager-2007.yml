@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 301119'
-  description: Microsoft Identity жизнения мениджър 2007 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Identity Lifecycle Manager 2007
+  description: Microsoft Identity Lifecycle Manager 2007 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: e87de30d9ecd945c0aa172fa69f570a981114ab2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804647"
-name: 'Преглед на оригиналната статия на английски: 301119'
+name: Microsoft Identity Lifecycle Manager 2007
 summary: >+
-  Microsoft Identity жизнения мениджър 2007 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Identity Lifecycle Manager 2007 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/previous-versions/mim/ff608268(v=ws.10)?redirectedfrom=MSDN)\n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/previous-versions/mim/ff608268(v=ws.10)?redirectedfrom=MSDN)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)"

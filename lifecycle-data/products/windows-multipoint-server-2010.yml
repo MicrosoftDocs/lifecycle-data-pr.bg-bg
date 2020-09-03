@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows многоточков сървър 2010
-  description: Windows многоточков сървър 2010 следва фиксираните правила за жизнения цикъл.
+  title: Windows MultiPoint Server 2010
+  description: Windows MultiPoint Server 2010 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: fe2e8699f2c0dd5d2303ba32477aa39287a7c354
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804832"
-name: Windows многоточков сървър 2010
+name: Windows MultiPoint Server 2010
 summary: >+
-  Windows многоточков сървър 2010 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows MultiPoint Server 2010 следва  [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася за следните издания: Академична,
+  Това се отнася за следните издания: Academic, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://aka.ms/AA1ovn4)\n* [Допълнителни насоки за миграцията](/windows-server/get-started/installation-and-upgrade)\n* [Информация за продукта](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Издания \n* Академични\n* Стандартна"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://aka.ms/AA1ovn4)\n* [Допълнителни указания за миграцията](/windows-server/get-started/installation-and-upgrade)\n* [Информация за продукта](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Издания \n* Academic\n* Standard"

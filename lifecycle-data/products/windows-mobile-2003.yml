@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Преглед на отзивите
-  description: Windows Mobile 2003 следва фиксираните правила за жизнения цикъл.
+  title: Windows Mobile 2003
+  description: Windows Mobile 2003 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804835"
-name: Преглед на отзивите
+name: Windows Mobile 2003
 summary: >
-  Windows Mobile 2003 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows Mobile 2003 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това важи за следните издания: за Pocket PC, за смартфони, Второ издание софтуер за Джобен КОМПЮТЪР Телефон, Второ издание софтуер за смартфон
+  Това важи за следните издания: за Pocket PC, за смартфони, Второ издание софтуер за Pocket PC Phone, Второ издание софтуер за смартфон
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Издания \n* за джобен компютър\n* за смартфони\n* Софтуер втора версия за джобен компютър\n* Софтуер за второ издание за смартфон"
+content: "\n\n\n## <a name=\"editions\"></a>Издания \n* за Pocket PC\n* за смартфони\n* Второ издание софтуер за Pocket PC Phone\n* Второ издание софтуер за смартфон"

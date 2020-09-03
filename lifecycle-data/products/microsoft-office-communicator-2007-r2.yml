@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 2998499'
-  description: Microsoft Office Communicator 2007 R2 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Office Communicator 2007 R2
+  description: Microsoft Office Communicator 2007 R2 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 96ef1f9786fe6c244254432e1f515155af5b267e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805324"
-name: 'Преглед на оригиналната статия на английски: 2998499'
-summary: "Microsoft Office Communicator 2007 R2 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.\n\nТова се отнася за следните издания: Всички приложими,\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. Вижте насоки за миграцията. \n"
+name: Microsoft Office Communicator 2007 R2
+summary: "Microsoft Office Communicator 2007 R2 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.\n\nТова се отнася за следните издания: всички приложими, Phone\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. Вижте указанията за миграцията. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 03/19/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Издания \n* Всички приложими\n* Телефон"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Издания \n* All applicable\n* Телефон"
