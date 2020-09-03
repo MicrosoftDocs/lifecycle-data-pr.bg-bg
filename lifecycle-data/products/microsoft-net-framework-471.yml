@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 3014007'
-  description: Microsoft .NET Framework 4.7.1 следва правилата за жизнения цикъл на компонентите.
+  title: Microsoft .NET Framework 4.7.1
+  description: Microsoft .NET Framework 4.7.1 следва Правилата за жизнения цикъл на компонентите.
   ms.date: 07/28/2020
   ms.openlocfilehash: e57e809b4800ee789f7ae748bf0dd67d28966f91
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867811"
-name: 'Преглед на оригиналната статия на английски: 3014007'
+name: Microsoft .NET Framework 4.7.1
 summary: >+
-  Microsoft .NET Framework 4.7.1 следва правилата за жизнения цикъл на [компонентите.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft .NET Framework 4.7.1 следва [Правилата](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) за жизнения цикъл на компонентите.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [ЧЗВ за жизнения цикъл на .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework е компонент на операционната система Windows. Компонентите получават същата поддръжка като техния родителски продукт или платформа."
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [ЧЗВ за жизнения цикъл на .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework е компонент на ОС Windows. Компонентите получават същата поддръжка, както родителския продукт или платформа."

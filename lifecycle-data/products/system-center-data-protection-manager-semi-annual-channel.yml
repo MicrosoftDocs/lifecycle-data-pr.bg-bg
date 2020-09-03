@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Системен център за защита на данните Мениджър Полугодишен канал
-  description: Мениджърът за защита на данните в System Center полугодишният канал следва модерните правила за жизнения цикъл.
+  title: Полугодишен канал на System Center Data Protection Manager
+  description: Полугодишният канал на System Center Data Protection Manager следва Съвременните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 60f83dbcc7830bca583b04a805878d1836f7e965
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867844"
-name: Системен център за защита на данните Мениджър Полугодишен канал
+name: Полугодишен канал на System Center Data Protection Manager
 summary: >
-  Мениджърът за защита на данните в System Center полугодишният канал следва [модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+  Полугодишният канал на System Center Data Protection Manager следва [Съвременните](/lifecycle/policies/modern) правила за жизнения цикъл.
 
 
 
   > [!IMPORTANT]
 
-  > Поддръжката е прекратена. Вижте насоките за миграцията по-долу.
+  > Поддръжката е приключила. Вижте указанията за миграцията по-долу.
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"

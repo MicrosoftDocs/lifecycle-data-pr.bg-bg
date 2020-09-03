@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8
-  description: Windows 8 следва правилата за фиксиран жизнен цикъл.
+  description: Windows 8 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 08/21/2020
   ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906682"
 name: Windows 8
 summary: >
-  Windows 8 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Windows 8 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася за следните издания: Enterprise, Enterprise N, N, Pro с Media Center, Professional, Professional N, SL
+  Това се отнася до следните издания: Enterprise, Enterprise N, N, Pro с Media Center, Professional, Professional N, SL
 
 
   > [!IMPORTANT]
 
-  > Поддръжката за този продукт приключи. Клиентите трябва да актуализират до Windows 8,1, за да останат поддържани.
+  > Поддръжката за този продукт е приключила. Клиентите трябва да преминат към Windows 8.1, за да продължат да имат поддръжка.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Връзки \n* [ЧЗВ за жизнения цикъл – Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Издания \n* Enterprise\n* Enterprise N\n* N\n* Pro с мултимедийния център\n* Professional\n* Професионален N\n* SL"
+content: "\n## <a name=\"links\"></a>Връзки \n* [ЧЗВ за жизнения цикъл – Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Издания \n* Enterprise\n* Enterprise N\n* N\n* Pro с Media Center\n* Professional\n* Professional N\n* SL"

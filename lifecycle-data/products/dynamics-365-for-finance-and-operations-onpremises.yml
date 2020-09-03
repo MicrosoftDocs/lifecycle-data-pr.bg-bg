@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 за финанси и операции (локална версия)
-  description: Dynamics 365 за финанси и операции (локално) следва модерните правила за жизнения цикъл.
+  title: Dynamics 365 for Finance and Operations (локална версия)
+  description: Dynamics 365 за Finance и Operations (локално) следва Съвременните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 026c1a37c7e772e8a9982c4c0190ae4d44e24ea3
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867732"
-name: Dynamics 365 за финанси и операции (локална версия)
+name: Dynamics 365 for Finance and Operations (локална версия)
 summary: >+
-  Dynamics 365 за финанси и операции (локално) следва [модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+  Dynamics 365 за Finance и Operations (локално) следва [Съвременните](/lifecycle/policies/modern) правила за жизнения цикъл.
 
 
-  Това се отнася за следните издания: Enterprise
+  Това се отнася до следните издания: Enterprise
 
 products:
 - dynamics
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/15/2017
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за обслужване](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [Системни изисквания](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>Издания \n* Предприятие"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за обслужването](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [Системни изисквания](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>Издания \n* Enterprise"

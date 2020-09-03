@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 11
-  description: Internet Explorer 11 следва правилата за жизнения цикъл на компонента.
+  description: Internet Explorer 11 следва Правилата за жизнения цикъл на компонентите.
   ms.date: 08/12/2020
   ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893635"
 name: Internet Explorer 11
-summary: >+
-  Internet Explorer 11 следва правилата за жизнения цикъл на [компонента](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
-
-
+summary: "Internet Explorer 11 следва Правилата за жизнения цикъл на [компонентите](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). \n\n\n"
 products:
 - internet-explorer
 policyType: component
@@ -22,4 +19,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за мигриране](https://www.microsoft.com/itpro/microsoft-edge)\n* [ЧЗВ за правилата за жизнения цикъл на Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> От 12 януари 2016, само най-новата версия на Internet Explorer, налична за поддържаната операционна система, ще получи техническа поддръжка и актуализации на защитата."
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://www.microsoft.com/itpro/microsoft-edge)\n* [ЧЗВ за Правилата за жизнения цикъл на Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> От 12 януари 2016 г. само най-новата версия на Internet Explorer за поддържана операционна система ще получава техническа поддръжка и актуализации на защитата."
