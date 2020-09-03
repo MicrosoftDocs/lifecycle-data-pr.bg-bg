@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 9.0 Големиплани
-  description: Dynamics 9.0 GreatPlains следва фиксираните правила за жизнения цикъл.
+  title: Dynamics 9.0 GreatPlains
+  description: Dynamics 9.0 GreatPlains следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804425"
-name: Dynamics 9.0 Големиплани
+name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9.0 GreatPlains следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Dynamics 9.0 GreatPlains следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 

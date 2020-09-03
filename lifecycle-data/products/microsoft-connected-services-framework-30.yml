@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Прегледайте оригиналната статия на английски език: 301111'
-  description: Microsoft Connected Services Framework 3.0 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Connected Services Framework 3.0
+  description: Microsoft Connected Services Framework 3.0 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804994"
-name: 'Прегледайте оригиналната статия на английски език: 301111'
+name: Microsoft Connected Services Framework 3.0
 summary: >+
-  Microsoft Connected Services Framework 3.0 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Connected Services Framework 3.0 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася за следните издания: Стандартно бизнес събитие, Обработка на поръчки стандартна бизнес събитие, сървър, стандартен, стандартен сървър със стандартен бизнес събития
+  Това се отнася до следните издания: Стандартно бизнес събитие за фактуриране, Поръчка за обработка на стандартни бизнес събития, Сървър, Стандартен, Стандартен сървър със стандартни бизнес събития
 
 products:
 - connected-services-framework
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Издания \n* Стандартно фактуриране на бизнес събитие\n* Стандартна работа на поръчката\n* Сървър\n* Стандартна\n* Стандартен сървър със стандартни бизнес събития"
+content: "\n\n\n## <a name=\"editions\"></a>Издания \n* Стандартно бизнес събитие за фактуриране\n* Поръчка за обработка на стандартни бизнес събития\n* Server\n* Standard\n* Стандартен сървър със стандартни бизнес събития"
