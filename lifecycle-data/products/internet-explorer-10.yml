@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 10
-  description: Internet Explorer 10 следва правилата за жизнения цикъл на компонентите.
+  description: Internet Explorer 10 следва Правилата за жизнения цикъл на компонентите.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848758"
 name: Internet Explorer 10
 summary: >+
-  Internet Explorer 10 следва правилата за жизнения цикъл на [компонентите.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Internet Explorer 10 следва [Правилата](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) за жизнения цикъл на компонентите.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Често задавани въпроси за правилата за жизнения цикъл на Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Посетете ЧЗВ за жизнения цикъл на Internet Explorer за списък с поддържаните операционни системи и комбинации от браузъри."
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [ЧЗВ за Правилата за жизнения цикъл на Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Посетете ЧЗВ за жизнения цикъл на Internet Explorer за списък с поддържаните операционни системи и комбинации от браузъри."

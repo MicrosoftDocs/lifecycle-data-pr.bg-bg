@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Дизайнер на SharePoint 2013
-  description: SharePoint Designer 2013 следва фиксираните правила за жизнения цикъл.
+  title: SharePoint Designer 2013
+  description: SharePoint Designer 2013 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: ae676f0f1f60e3b034244349d273a177cf65662c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848907"
-name: Дизайнер на SharePoint 2013
+name: SharePoint Designer 2013
 summary: >+
-  SharePoint Designer 2013 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  SharePoint Designer 2013 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася за следните издания: Дизайнер
+  Това се отнася до следните издания: Designer
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Връзки \n* [Подробности за поддръжката](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Поддръжката за Microsoft SharePoint Designer 2013 се разширява, както е показано, за да се осигури съвместимост с SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Издания \n* Дизайнер"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Подробности за поддръжката](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Поддръжката за Microsoft SharePoint Designer 2013 се разширява, както е показано, за да се осигури съвместимост с SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Издания \n* Designer"

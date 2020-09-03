@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8 промишленост
-  description: Windows Embedded 8 индустрия следва фиксираните правила за жизнения цикъл.
+  title: Windows Embedded 8 Industry
+  description: Windows Embedded 8 Industry следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848632"
-name: Windows Embedded 8 промишленост
+name: Windows Embedded 8 Industry
 summary: >
-  Windows Embedded 8 индустрия следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows Embedded 8 Industry следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася за следните издания:
+  Това се отнася за следните издания: Enterprise, Pro
 
 
   > [!IMPORTANT]
 
-  > Клиентите трябва да мигрират към Windows 8.1 в ред да останат поддържани.
+  > Клиентите трябва да мигрират към Windows 8.1, за да останат поддържани.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Връзки \n* [Мигриране на насоки](https://www.microsoft.com/download/details.aspx?id=40279)\n* [ЧЗВ за жизнения цикъл - Продукти на Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Издания \n* Предприятие\n* Pro"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://www.microsoft.com/download/details.aspx?id=40279)\n* [ЧЗВ за жизнения цикъл – продукти на Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Издания \n* Enterprise\n* Pro"

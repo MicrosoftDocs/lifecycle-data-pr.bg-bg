@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Mobile, издаден през август 2016
-  description: Windows 10 Mobile, издаден през август 2016 г., следва фиксираните правила за жизнения цикъл.
+  title: Windows 10 Mobile, издание от август 2016 г.
+  description: Windows 10 Mobile, издаден през август 2016 г., следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: b9e0a074c7472ba059b79bac77a05a001e76d8c3
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848691"
-name: Windows 10 Mobile, издаден през август 2016
+name: Windows 10 Mobile, издание от август 2016 г.
 summary: >
-  Windows 10 Mobile, издаден през август 2016 г., следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows 10 Mobile, издаден през август 2016 г., следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/16/2016
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Връзки \n* [ЧЗВ за жизнения цикъл на операционната система на устройството](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile завърши поддръжката на 10 декември 2019 г.](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [ЧЗВ за жизнения цикъл на ОС на устройството](/lifecycle/faq/device-operating-systems)\n* [Поддръжката на Windows 10 Mobile приключи на 10 декември 2019 г.](/lifecycle/announcements/windows-10-mobile-end-of-support)"

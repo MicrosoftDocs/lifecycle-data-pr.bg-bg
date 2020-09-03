@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 3111402'
-  description: Microsoft System Center 2012 Operations Manager следва фиксираните правила за жизнения цикъл.
+  title: Microsoft System Center 2012 Operations Manager
+  description: Microsoft System Center 2012 Operations Manager следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 837eee5f41fd4a6fe7ae7bee9c04af085e831004
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848816"
-name: 'Преглед на оригиналната статия на английски: 3111402'
+name: Microsoft System Center 2012 Operations Manager
 summary: >+
-  Microsoft System Center 2012 Operations Manager следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft System Center 2012 Operations Manager следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n* [Документация на центъра за системата](/system-center/#pivot=components&panel=components-all)\n* [Системни ресурси](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n* [System Center Documentation](/system-center/#pivot=components&panel=components-all)\n* [Ресурси на System Center](https://www.microsoft.com/system-center/resources)"
