@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Antigen
   description: Microsoft Antigen следва Правилата за фиксиран жизнен цикъл.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
+  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805054"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001970"
 name: Microsoft Antigen
 summary: >+
   Microsoft Antigen следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/17/2006
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Пътната карта за продукти за защита под марката на Forefront се промени. Този продукт се прекратява от 31 декември 2015 г.\n\n## <a name=\"editions\"></a>Издания \n* 9.0 за Exchange\n* Enterprise Manager 9.0\n* за SMTP шлюзове\n* Диспечер на спам\n\n"
+content: "\n\n> [!NOTE]\n> Пътната карта за продукти за защита под марката на Forefront се промени. Този продукт се прекратява от 31 декември 2015 г.\n\n## <a name=\"editions\"></a>Издания \n* 9.0 за Exchange\n* Enterprise Manager 9.0\n* за SMTP шлюзове\n* Диспечер на спам\n"
