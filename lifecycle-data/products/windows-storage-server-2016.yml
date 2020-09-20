@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Сървър за съхранение на Windows 2016
-  description: Server 2016 за Windows Storage следва правилата за фиксиран жизнен цикъл.
+  title: Windows Storage Server 2016
+  description: Windows Storage Server 2016 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: Standard,Workgroup
   ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938953"
-name: Сървър за съхранение на Windows 2016
+name: Windows Storage Server 2016
 summary: >+
-  Server 2016 за Windows Storage следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Windows Storage Server 2016 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася до следните издания: Standard, Workgroup
+  Това се отнася за следните издания: Standard, Workgroup
 
 products:
 - windows

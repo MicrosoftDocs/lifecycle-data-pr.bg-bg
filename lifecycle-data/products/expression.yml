@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Израз
-  description: Expression следва правилата за фиксиран жизнен цикъл.
+  title: Expression
+  description: Expression следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio
   ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936215"
-name: Израз
-summary: "Expression следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.\n\nТова се отнася за следните издания: бленда, дизайн, енкодер, студио\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. \n"
+name: Expression
+summary: "Expression следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.\n\nТова се отнася до следните издания: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> \"Начална дата\" за Expression Blend е 13 юли 2007 г. \n\n## <a name=\"editions\"></a>Издания \n* Смес\n* Дизайн\n* Енкодер\n* Студио"
+content: "\n\n> [!NOTE]\n> Началната дата на Expression Blend е 13 юли 2007 г. \n\n## <a name=\"editions\"></a>Издания \n* Blend\n* Design\n* Encoder\n* Studio"

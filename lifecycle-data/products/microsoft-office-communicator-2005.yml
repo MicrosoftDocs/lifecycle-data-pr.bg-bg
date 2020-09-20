@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communicator 2005
-  description: Microsoft Office Communicator 2005 следва правилата за фиксиран жизнен цикъл.
+  description: Microsoft Office Communicator 2005 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936252"
 name: Microsoft Office Communicator 2005
-summary: "Microsoft Office Communicator 2005 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.\n\nТова се отнася до следните издания: Standard\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. \n"
+summary: "Microsoft Office Communicator 2005 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.\n\nТова се отнася до следните издания: Standard\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. \n"
 products:
 - office
 policyType: fixed

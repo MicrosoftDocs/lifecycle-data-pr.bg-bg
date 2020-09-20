@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Lync 2013
-  description: Lync 2013 следва правилата за фиксиран жизнен цикъл.
+  description: Lync 2013 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: SDK,Standard
   ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933329"
 name: Lync 2013
 summary: >+
-  Lync 2013 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Lync 2013 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася за следните издания: SDK, стандартен
+  Това се отнася до следните издания: SDK, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Изданието за клиент на Skype за бизнеса 2015 е актуализация за клиента на Lync 2013 и ще следва същия жизнен цикъл на продукта.\nНачалната дата за Lync 2013 SDK е 23 февруари 2013. \n\n## <a name=\"editions\"></a>Издания \n* SDK\n* Standard"
+content: "\n\n> [!NOTE]\n> Клиентът за Skype за бизнеса 2015 е актуализация на клиента за Lync 2013 и ще следва същия продуктов жизнен цикъл.\nНачалната дата за Lync 2013 SDK е 23 февруари 2013 г. \n\n## <a name=\"editions\"></a>Издания \n* SDK\n* Standard"
