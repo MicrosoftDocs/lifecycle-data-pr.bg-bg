@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Преглед на оригиналната статия на английски: 3111199'
-  description: Мениджърът за защита на данните на Microsoft system Center 2010 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft System Center Data Protection Manager 2010
+  description: Microsoft System Center Data Protection Manager 2010 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7534f6aceaf0d1bb13a70109e9df6b5dd07c1153
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804921"
-name: 'Преглед на оригиналната статия на английски: 3111199'
+name: Microsoft System Center Data Protection Manager 2010
 summary: >+
-  Мениджърът за защита на данните на Microsoft system Center 2010 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft System Center Data Protection Manager 2010 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"

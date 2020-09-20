@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Основи на Windows за стари компютри
-  description: Основи на Windows за стари компютри следва фиксираните правила за жизнения цикъл.
+  title: Windows Fundamentals за остарели компютри
+  description: Windows Fundamentals за остарели компютри следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804324"
-name: Основи на Windows за стари компютри
+name: Windows Fundamentals за остарели компютри
 summary: >+
-  Основи на Windows за стари компютри следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows Fundamentals за остарели компютри следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2006
   endDate: 10/12/2010
-content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Този продукт следва същите правила за жизнения цикъл на поддръжката като Windows XP."
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Този продукт следва същите правила за жизнения цикъл на поддръжката като Windows XP."

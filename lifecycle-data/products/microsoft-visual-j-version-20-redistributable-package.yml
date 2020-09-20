@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Прегледайте оригиналната статия на английски език: microsoft'
-  description: Microsoft Visual J# версия 2.0 разпространение пакет следва фиксирани правила за жизнения цикъл.
+  title: Microsoft Visual J# Version 2.0 Redistributable Package
+  description: Microsoft Visual J# Version 2.0 Redistributable Package следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: fa32b69860aec252b7d1068ad2e130700f9d0b92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804512"
-name: 'Прегледайте оригиналната статия на английски език: microsoft'
+name: Microsoft Visual J# Version 2.0 Redistributable Package
 summary: >+
-  Microsoft Visual J# версия 2.0 разпространение пакет следва [фиксирани](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Visual J# Version 2.0 Redistributable Package следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 04/22/2006
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за поддръжка на Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Поддръжката за този продукт е приключила. Вижте по-долу насоки за миграцията."
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за поддръжката на Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Поддръжката за този продукт е приключила. Вижте указанията за миграция по-долу."

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Мениджър на отчитането на системата 2006
-  description: Мениджърът на отчети на System Center 2006 следва фиксираните правила за жизнения цикъл.
+  title: System Center Reporting Manager 2006
+  description: System Center Reporting Manager 2006 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 472619ad5c47b8f0e8ff33bf769094c5edc6c58f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804874"
-name: Мениджър на отчитането на системата 2006
+name: System Center Reporting Manager 2006
 summary: >
-  Мениджърът на отчети на System Center 2006 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  System Center Reporting Manager 2006 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 
   > [!IMPORTANT]
 
-  > Поддръжката за този продукт е приключила. Вижте насоките за миграцията по-долу.
+  > Поддръжката за този продукт е приключила. Вижте указанията за миграцията по-долу.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 09/17/2006
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](https://blogs.technet.microsoft.com/momteam/2016/10/06/microsoft-system-center-reporting-manager-2006-end-of-support)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://blogs.technet.microsoft.com/momteam/2016/10/06/microsoft-system-center-reporting-manager-2006-end-of-support)"

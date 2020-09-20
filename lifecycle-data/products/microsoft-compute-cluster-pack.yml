@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Компютърен пакет за клъстери на Microsoft
-  description: Пакетът с клъстери Microsoft Compute следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Compute Cluster Pack
+  description: Microsoft Compute Cluster Pack следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804999"
-name: Компютърен пакет за клъстери на Microsoft
+name: Microsoft Compute Cluster Pack
 summary: >
-  Пакетът с клъстери Microsoft Compute следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Compute Cluster Pack следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/06/2006
   endDate: 04/08/2008
-content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Решение на Microsoft за хоствани съобщения и сътрудничество 4.0
-  description: Решение на Microsoft за хоствани съобщения и сътрудничество 4.0 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Solution for Hosted Messaging and Collaboration 4.0
+  description: Microsoft Solution for Hosted Messaging and Collaboration 4.0 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: d5aad6d836257bdbd054a1e385c6268769a1da05
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804519"
-name: Решение на Microsoft за хоствани съобщения и сътрудничество 4.0
+name: Microsoft Solution for Hosted Messaging and Collaboration 4.0
 summary: >+
-  Решение на Microsoft за хоствани съобщения и сътрудничество 4.0 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Solution for Hosted Messaging and Collaboration 4.0 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:

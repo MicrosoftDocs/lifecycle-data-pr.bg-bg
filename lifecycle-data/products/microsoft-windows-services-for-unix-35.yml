@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Прегледайте оригиналната статия на английски: 301119'
-  description: Услугите на Microsoft Windows за UNIX 3.5 следва правилата за жизнения цикъл на компонентите.
+  title: Microsoft Windows Services за UNIX 3.5
+  description: Microsoft Windows Services за UNIX 3.5 следва Правилата за жизнения цикъл на компонентите.
   ms.date: 07/28/2020
   ms.openlocfilehash: 55f7940da408533190f0d2c0fdb2d323e983a9e4
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804357"
-name: 'Прегледайте оригиналната статия на английски: 301119'
-summary: "Услугите на Microsoft Windows за UNIX 3.5 следва правилата за жизнения цикъл на [компонентите.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)\n\n\n> [!IMPORTANT]\n> Поддръжката е прекратена. \n"
+name: Microsoft Windows Services за UNIX 3.5
+summary: "Microsoft Windows Services за UNIX 3.5 следва Правилата за жизнения цикъл на [компонентите](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).\n\n\n> [!IMPORTANT]\n> Поддръжката е приключила. \n"
 products:
 - windows
 policyType: component
