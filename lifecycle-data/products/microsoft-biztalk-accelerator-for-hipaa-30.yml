@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk ускорител за HIPAA 3,0
-  description: Microsoft BizTalk ускорител за HIPAA 3,0 следва правилата за фиксиран жизнен цикъл.
+  title: Microsoft BizTalk Accelerator за HIPAA 3.0
+  description: Microsoft BizTalk Accelerator за HIPAA 3.0 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 402414833e6f07af15c0b2d94d5cf40a9ebd80a1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935253"
-name: Microsoft BizTalk ускорител за HIPAA 3,0
+name: Microsoft BizTalk Accelerator за HIPAA 3.0
 summary: >+
-  Microsoft BizTalk ускорител за HIPAA 3,0 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Microsoft BizTalk Accelerator за HIPAA 3.0 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
   Това се отнася до следните издания: Enterprise, Standard

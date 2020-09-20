@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: Microsoft 365 следва съвременната политика за жизнен цикъл.
+  description: Microsoft 365 следва Съвременните правила за жизнен цикъл.
   ms.date: 09/01/2020
   keywords: Business,Education,Enterprise,Government
   ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935956"
 name: Microsoft 365
 summary: >+
-  Microsoft 365 следва [съвременната](/lifecycle/policies/modern) политика за жизнен цикъл.
+  Microsoft 365 следва [Съвременните](/lifecycle/policies/modern) правила за жизнен цикъл.
 
 
-  Това се отнася за следните издания: бизнес, образование, предприятие, правителство
+  Това се отнася за следните издания: Business, Education, Enterprise, Government
 
 products:
 - office

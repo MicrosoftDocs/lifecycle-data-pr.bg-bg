@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2012
-  description: Visual Studio Team Foundation Server 2012 следва правилата за фиксиран жизнен цикъл.
+  description: Visual Studio Team Foundation Server 2012 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: All
   ms.openlocfilehash: 010d56498bce5718034fa1af505e985ed93f40ce
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937325"
 name: Visual Studio Team Foundation Server 2012
 summary: >+
-  Visual Studio Team Foundation Server 2012 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Visual Studio Team Foundation Server 2012 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
   Това се отнася до следните издания: Всички
