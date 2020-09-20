@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Израз 3
-  description: Израз 3 следва правилата за фиксиран жизнен цикъл.
+  title: Expression 3
+  description: Expression 3 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio,Web
   ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930739"
-name: Израз 3
+name: Expression 3
 summary: >+
-  Израз 3 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Expression 3 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася за следните издания: дизайн, енкодер, студио, уеб
+  Това се отнася до следните издания: Design, Encoder, Studio, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Началната дата за Expression Design 3 е 19 ноември 2009. \n\n## <a name=\"editions\"></a>Издания \n* Дизайн\n* Енкодер\n* Студио\n* Web"
+content: "\n\n> [!NOTE]\n> Началната дата за Expression Design 3 е 19 ноември 2009 г. \n\n## <a name=\"editions\"></a>Издания \n* Design\n* Encoder\n* Studio\n* Web"

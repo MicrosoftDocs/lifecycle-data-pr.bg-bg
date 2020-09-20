@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Анализи за Windows
-  description: Windows Analytics следва съвременната политика за жизнен цикъл.
+  title: Windows Analytics
+  description: Windows Analytics следва Съвременните правила за жизнения цикъл.
   ms.date: 08/11/2020
   ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
   ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 08/11/2020
   ms.locfileid: "887844"
-name: Анализи за Windows
+name: Windows Analytics
 summary: >
-  Windows Analytics следва [съвременната](/lifecycle/policies/modern) политика за жизнен цикъл.
+  Windows Analytics следва [Съвременните правила](/lifecycle/policies/modern) за жизнения цикъл.
 
 
 
   > [!IMPORTANT]
 
-  > Поддръжката приключи. Вижте указания за мигриране по-долу.
+  > Поддръжката е приключила. Вижте указанията за миграцията по-долу.
 products:
 - windows
 policyType: modern-on-prem
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/02/2017
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за мигриране](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"

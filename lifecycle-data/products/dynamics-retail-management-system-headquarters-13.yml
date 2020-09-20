@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System 1,3 за управление на продажбите за Dynamics
-  description: Системата за управление на продажбите в Dynamics 1,3 следва правилата за фиксиран жизнен цикъл.
+  title: Dynamics Retail Management System 1.3
+  description: Dynamics Retail Management System 1.3 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: Headquarters,Store Operations
   ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931683"
-name: System 1,3 за управление на продажбите за Dynamics
+name: Dynamics Retail Management System 1.3
 summary: >+
-  Системата за управление на продажбите в Dynamics 1,3 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Dynamics Retail Management System 1.3 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася до следните издания: Headquarters, Store Operations
+  Това се отнася за следните издания: Headquarters, Store Operations
 
 products:
 - dynamics
