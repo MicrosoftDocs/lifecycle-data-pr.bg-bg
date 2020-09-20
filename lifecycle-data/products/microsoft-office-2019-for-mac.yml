@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2019 за Mac
-  description: Microsoft Office 2019 for Mac следва правилата за фиксиран жизнен цикъл.
+  description: Microsoft Office 2019 за Mac следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Student,Standard
   ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930406"
 name: Microsoft Office 2019 за Mac
 summary: >+
-  Microsoft Office 2019 for Mac следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Microsoft Office 2019 за Mac следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася за следните издания: Академик, домашен и бизнес, домашен и ученик, стандартен
+  Това се отнася до следните издания: Academic, Home and Business, Home and Student, Standard
 
 products:
 - office
