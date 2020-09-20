@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype за бизнес 2015
-  description: Skype за бизнес 2015 следва фиксираните правила за жизнения цикъл.
+  title: Skype за бизнеса 2015
+  description: Skype за бизнеса 2015 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: bd853629ca9a63be5ed31cb94084c5b161cb82cc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848993"
-name: Skype за бизнес 2015
+name: Skype за бизнеса 2015
 summary: >+
-  Skype за бизнес 2015 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Skype за бизнеса 2015 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Клиент: Skype за бизнес 2015 клиент версия е актуализация на клиента на Lync 2013 и ще следва същия жизнен цикъл на продукта."
+content: "\n\n> [!NOTE]\n> Клиент: Клиентът за Skype за бизнеса 2015 е актуализация на клиента за Lync 2013 и ще следва същия продуктов жизнен цикъл."

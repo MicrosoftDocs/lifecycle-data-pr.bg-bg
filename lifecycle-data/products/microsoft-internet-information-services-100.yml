@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Прегледайте оригиналната статия на английски език: microsoft'
-  description: Интернет информационни услуги на Microsoft 10.0 следва правилата за жизнения цикъл на компонентите.
+  title: Microsoft Internet Information Services 10.0
+  description: Microsoft Internet Information Services 10.0 следва Правилата за жизнения цикъл на компонентите.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ee9b2824e6fd7cff445f978c3a6294e7784abcb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848730"
-name: 'Прегледайте оригиналната статия на английски език: microsoft'
+name: Microsoft Internet Information Services 10.0
 summary: >+
-  Интернет информационни услуги на Microsoft 10.0 следва правилата за жизнения цикъл на [компонентите.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft Internet Information Services 10.0 следва [Правилата за жизнения цикъл на компонентите](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/11/2027
-content: "\n\n> [!NOTE]\n> Тази версия е известна като компонент, който следва жизнения цикъл на поддръжката на главния главен продукт, Windows Server 2016."
+content: "\n\n> [!NOTE]\n> Тази версия е известна като Компонент, който следва Жизнения цикъл на поддръжката на родителския Основен продукт, Windows Server 2016."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 на повърхността концентратор
-  description: Windows 10 на повърхността концентратор следва фиксираните правила за жизнения цикъл.
+  title: Windows 10 на Surface Hub
+  description: Windows 10 на Surface Hub следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: d5c994b23c967ac3138bc695168ac1bbeec1856b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848638"
-name: Windows 10 на повърхността концентратор
+name: Windows 10 на Surface Hub
 summary: >+
-  Windows 10 на повърхността концентратор следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows 10 на Surface Hub следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/25/2016
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Връзки \n* [Актуализации на Windows (повърхност концентратор)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Вижте страницата актуализации на Windows (Surface Hub), за да сте сигурни, че получавате най-новите актуализации на Surface Hub."
+content: "\n## <a name=\"links\"></a>Връзки \n* [Актуализации за Windows (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Вижте страницата за актуализации на Windows (Surface Hub), за да сте сигурни, че изтегляте най-новите актуализации за Surface Hub."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2011 г.
-  description: Dynamics SL 2011 следва фиксираните правила за жизнения цикъл.
+  title: Dynamics SL 2011
+  description: Dynamics SL 2011 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1952cd7ae9c7c76d5679fa95a3d8f1f4ad88b14f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848675"
-name: 2011 г.
+name: Dynamics SL 2011
 summary: >+
-  Dynamics SL 2011 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Dynamics SL 2011 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2011
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Връзки \n* [Правила на сервизния пакет](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)"

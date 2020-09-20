@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Основен обект рамка
-  description: Entity Framework Core следва модерните правила за жизнения цикъл.
+  title: Entity Framework Core
+  description: Entity Framework Core следва Съвременните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 635de4ebbcd4ff1061210469cd509fe9771be356
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848939"
-name: Основен обект рамка
+name: Entity Framework Core
 summary: >+
-  Entity Framework Core следва [модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+  Entity Framework Core следва [Съвременните правила](/lifecycle/policies/modern) за жизнения цикъл.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>Връзки \n* [ЧЗВ за жизнения цикъл - .NET Core](/lifecycle/faq/dotnet-core)\n* [Информация за обслужване](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Пътна карта .NET](https://github.com/dotnet/core/blob/master/roadmap.md)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [ЧЗВ за жизнения цикъл – .NET Core](/lifecycle/faq/dotnet-core)\n* [Информация за обслужването](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Пътна карта за .NET](https://github.com/dotnet/core/blob/master/roadmap.md)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft отчет Viewer 2010 разпространение
-  description: Microsoft отчет Viewer 2010 Разпространение следва фиксирани жизнения цикъл правила.
+  title: Microsoft Report Viewer 2010 Redistributable
+  description: Microsoft Report Viewer 2010 Redistributable следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804375"
-name: Microsoft отчет Viewer 2010 разпространение
+name: Microsoft Report Viewer 2010 Redistributable
 summary: >+
-  Microsoft отчет Viewer 2010 Разпространение следва [фиксирани](/lifecycle/policies/fixed) жизнения цикъл правила.
+  Microsoft Report Viewer 2010 Redistributable следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:

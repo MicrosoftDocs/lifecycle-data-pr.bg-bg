@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Онлайн Skype за бизнес
-  description: Skype за бизнес онлайн следва съвременните правила за жизнения цикъл.
+  title: Skype за бизнеса онлайн
+  description: Skype за бизнеса онлайн следва Съвременните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848991"
-name: Онлайн Skype за бизнес
+name: Skype за бизнеса онлайн
 summary: >
-  Skype за бизнес онлайн следва [съвременните](/lifecycle/policies/modern) правила за жизнения цикъл.
+  Skype за бизнеса онлайн следва [Съвременните](/lifecycle/policies/modern) правила за жизнения цикъл.
 
 
 
   > [!IMPORTANT]
 
-  > Тази услуга ще се оттегли на 31 юли 2021. Вижте по-долу насоки за миграцията.
+  > Тази услуга ще бъде прекратена на 31 юли 2021 г. Вижте указанията за миграция по-долу.
 products:
 - office
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2015
   endDate: 07/31/2021
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/MicrosoftTeams/upgrade-start-here)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/MicrosoftTeams/upgrade-start-here)"

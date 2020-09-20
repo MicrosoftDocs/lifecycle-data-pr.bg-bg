@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics CRM 2011
-  description: Dynamics CRM 2011 следва фиксираните правила за жизнения цикъл.
+  description: Dynamics CRM 2011 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0598408582a54cda647bf2c81147a104f54f216
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848969"
 name: Dynamics CRM 2011
 summary: >+
-  Dynamics CRM 2011 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Dynamics CRM 2011 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release (ver 5.0)
   startDate: 05/18/2011
   endDate: 07/13/2021
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/previous-versions/dynamicscrm-2013/implementation-guide/hh699716(v=crm.6)#in-this-topic)\n* [Информация за поддръжка](https://support.microsoft.com/help/2555051/microsoft-dynamics-crm-2011-updates-and-hotfixes)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/previous-versions/dynamicscrm-2013/implementation-guide/hh699716(v=crm.6)#in-this-topic)\n* [Информация за поддръжка](https://support.microsoft.com/help/2555051/microsoft-dynamics-crm-2011-updates-and-hotfixes)"
