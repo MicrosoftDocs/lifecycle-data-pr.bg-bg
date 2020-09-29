@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Мениджър на виртуална машина system Center 2019
-  description: Мениджърът на виртуална машина system Center 2019 следва правилата за фиксиран жизнен цикъл.
+  title: System Center 2019 Virtual Machine Manager
+  description: System Center 2019 Virtual Machine Manager следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 875ab9d5c18f9945a0b32539e1ae75401ebbd978
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867846"
-name: Мениджър на виртуална машина system Center 2019
+name: System Center 2019 Virtual Machine Manager
 summary: >+
-  Мениджърът на виртуална машина system Center 2019 следва [правилата за фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  System Center 2019 Virtual Machine Manager следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
 products:
