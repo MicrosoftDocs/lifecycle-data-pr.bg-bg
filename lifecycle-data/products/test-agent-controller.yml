@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Тестов агент, контролер
-  description: Тестов агент, Контролерът следва правилата за жизнения цикъл на компонента.
+  title: Test Agent, Controller
+  description: Test Agent, Controller следва Правилата за жизнения цикъл на компонентите.
   ms.date: 08/13/2020
   ms.openlocfilehash: 7cb3e4327582e2dcb0c2d9fd448fff1aa31d6c81
   ms.sourcegitcommit: 3c6b83bda986f678312f44c1a8424e183a327d5c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 08/14/2020
   ms.locfileid: "894936"
-name: Тестов агент, контролер
+name: Test Agent, Controller
 summary: >+
-  Тестов агент, Контролерът следва правилата за жизнения цикъл на [компонента](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Test Agent, Controller следва [Правилата за жизнения цикъл на компонентите](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

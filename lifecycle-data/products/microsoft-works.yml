@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Works
-  description: Microsoft Works следва правилата за фиксиран жизнен цикъл.
+  description: Microsoft Works следва Фиксираните правила за жизнения цикъл.
   ms.date: 08/19/2020
   ms.openlocfilehash: da68f15014771676be04285328ffde3ff1c49858
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903850"
 name: Microsoft Works
 summary: >+
-  Microsoft Works следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Microsoft Works следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
 products:
@@ -39,4 +39,4 @@ releases:
 - version: Microsoft Works Suite 2004
   startDate: 10/25/2003
   endDate: 01/09/2007
-content: "\n\n> [!NOTE]\n> Този списък съдържа всички продукти от Microsoft Works, издадени между 2003 и 2007."
+content: "\n\n> [!NOTE]\n> Този списък съдържа ВСИЧКИ продукти на Microsoft Works, издадени между 2003 г. и 2007 г."

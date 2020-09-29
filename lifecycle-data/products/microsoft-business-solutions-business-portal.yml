@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Бизнес портал на Microsoft Business Solutions
-  description: Бизнес порталът Microsoft Business Solutions следва правилата за фиксиран жизнен цикъл.
+  title: Microsoft Business Solutions Business Portal
+  description: Microsoft Business Solutions Business Portal следва Фиксираните правила за жизнения цикъл.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903852"
-name: Бизнес портал на Microsoft Business Solutions
+name: Microsoft Business Solutions Business Portal
 summary: >+
-  Бизнес порталът Microsoft Business Solutions следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Microsoft Business Solutions Business Portal следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
 products:
@@ -30,4 +30,4 @@ releases:
 - version: Business Solutions Business Portal 1.2
   startDate: 07/18/2003
   endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> Бизнес порталът Microsoft Business Solutions 2,5 се поддържа само когато се използва с Great Plains 8,0 или Соломон 6,0."
+content: "\n\n> [!NOTE]\n> Microsoft Business Solutions Business Portal 2.5 се поддържаше, само когато се използваше заедно с Great Plains 8.0 или Solomon 6.0."
