@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Мениджър на услуги в System Center 2010
-  description: System Center Service Manager 2010 следва фиксираните правила за жизнения цикъл.
+  title: Мениджър услуги на системен център 2010
+  description: System Center Service Manager 2010 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 844c0319c76e81e57b895549694a67efddc1bccc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804872"
-name: Мениджър на услуги в System Center 2010
+name: Мениджър услуги на системен център 2010
 summary: >+
-  System Center Service Manager 2010 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  System Center Service Manager 2010 следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
 products:

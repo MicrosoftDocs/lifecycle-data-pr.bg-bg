@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics C5 2014
-  description: Dynamics C5 2014 следва фиксираните правила за жизнения цикъл.
+  description: Dynamics C5 2014 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: e4f0556a8fd84b688392121720ac06d2b6945eec
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848868"
 name: Dynamics C5 2014
 summary: >+
-  Dynamics C5 2014 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Dynamics C5 2014 следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
 products:

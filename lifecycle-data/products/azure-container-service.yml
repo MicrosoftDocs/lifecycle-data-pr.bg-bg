@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Услуга за контейнери на Azure
-  description: Услугата за контейнери на Azure следва модерните правила за жизнения цикъл.
+  title: Услуга за контейнерни услуги в Azure
+  description: Azure Container Service следва Модерните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848603"
-name: Услуга за контейнери на Azure
+name: Услуга за контейнерни услуги в Azure
 summary: >+
-  Услугата за контейнери на Azure следва [модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+  Azure Container Service следва [Модерните правила](/lifecycle/policies/modern) за жизнения цикъл.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 04/18/2016
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Връзки \n* [Насоки за миграцията](/azure/aks/acs-aks-migration)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/azure/aks/acs-aks-migration)"
