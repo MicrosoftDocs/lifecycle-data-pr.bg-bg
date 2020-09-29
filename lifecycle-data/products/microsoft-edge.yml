@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Edge
-  description: Microsoft Edge следва съвременната политика за жизнен цикъл.
+  description: Microsoft Edge следва Модерните правила за жизнения цикъл.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2d9e751a4612eaa04e995711449c2c2851b5db72
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905763"
 name: Microsoft Edge
 summary: >
-  Microsoft Edge следва [съвременната](/lifecycle/policies/modern) политика за жизнен цикъл.
+  Microsoft Edge следва [Модерните правила](/lifecycle/policies/modern) за жизнения цикъл.
 
 
 
   > [!IMPORTANT]
 
-  > Имайте предвид, че наследени версии на този продукт завършва поддръжката на 9 март 2021. Отидете тук  [, за да](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) научите повече.
+  > Моля, обърнете внимание, че наследената версия на този продукт приключва поддръжката на 9 март 2021 г. Отидете   [тук](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666), за да научите повече.
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -26,4 +26,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/15/2020
-content: "\n## <a name=\"links\"></a>Връзки \n* [Поддържани операционни системи Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Операционни системи, поддържани от Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)"

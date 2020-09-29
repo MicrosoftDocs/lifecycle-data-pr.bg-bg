@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Визуализатор на отчети на Microsoft
-  description: Визуализаторът на Microsoft report следва съвременните правила за жизнен цикъл.
+  title: Microsoft Report Viewer
+  description: Microsoft Report Viewer следва Модерните правила за жизнения цикъл.
   ms.date: 08/19/2020
   ms.openlocfilehash: 9025fd3d1b84a581d70de562ab977e3aa01870fb
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "904772"
-name: Визуализатор на отчети на Microsoft
+name: Microsoft Report Viewer
 summary: >+
-  Визуализаторът на Microsoft report следва [съвременните](/lifecycle/policies/modern) правила за жизнен цикъл.
+  Microsoft Report Viewer следва [Модерните правила](/lifecycle/policies/modern) за жизнения цикъл.
 
 
 products:

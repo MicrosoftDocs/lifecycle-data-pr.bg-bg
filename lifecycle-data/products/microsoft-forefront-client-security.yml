@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Защита за клиенти на Microsoft Forefront
-  description: Защитата на клиенти на Microsoft Forefront следва правилата за фиксиран жизнен цикъл.
+  title: Microsoft Forefront Client Security
+  description: Microsoft Forefront Client Security следва Фиксираните правила за жизнения цикъл.
   ms.date: 08/28/2020
   ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924244"
-name: Защита за клиенти на Microsoft Forefront
+name: Microsoft Forefront Client Security
 summary: >+
-  Защитата на клиенти на Microsoft Forefront следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Microsoft Forefront Client Security следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Връзки \n* [Защита на крайна точка на System Center](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Защитата на Forefront client е прекратена към 14 юли, 2015. Актуализациите на дефинициите за злонамерен софтуер и антиспайуер вече няма да са налични след края на поддръжката за версията на продукта. Моля, преценете защитата на крайна точка на System Center като заместител."
+content: "\n## <a name=\"links\"></a>Връзки \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security е оттеглен от 14 юли 2015 г. Актуализациите на дефинициите за Antimalware и Antispyware вече няма да са налични след края на поддръжката на версията на продукта. Моля обмислете System Center Endpoint Protection като заместител."
