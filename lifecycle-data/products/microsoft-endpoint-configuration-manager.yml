@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Диспечер за конфигуриране на крайна точка на Microsoft
-  description: Диспечерът за конфигуриране на крайна точка на Microsoft следва правилата за модерен жизнен цикъл.
+  title: Microsoft Endpoint Configuration Manager
+  description: Microsoft Endpoint Configuration Manager следва Модерните правила за жизнения цикъл.
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934032"
-name: Диспечер за конфигуриране на крайна точка на Microsoft
+name: Microsoft Endpoint Configuration Manager
 summary: >
-  Диспечерът за конфигуриране на крайна точка на Microsoft следва правилата за [модерен](/lifecycle/policies/modern) жизнен цикъл.
+  Microsoft Endpoint Configuration Manager следва [Модерните правила](/lifecycle/policies/modern) за жизнения цикъл.
 
 
 
   > [!IMPORTANT]
 
-  > Започвайки във версия 1910, Диспечерът на конфигурацията вече е част от диспечера за крайна точка на Microsoft.
+  > Започвайки от версия 1910, Configuration Manager вече е част от Microsoft Endpoint Manager.
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за обслужването](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Подробни данни за версията](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Диспечерът за конфигуриране на System Center сега е Диспечер за конфигуриране на крайна точка на Microsoft](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Исторически версии](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Какво е Диспечерът за конфигуриране](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за обслужването](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Подробни данни за версията](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager вече е Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Исторически версии](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Какво е Configuration Manager](/mem/configmgr/core/understand/introduction)"
