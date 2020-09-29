@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft бизнес решения за анализатора за прогноза 6.7
-  description: Microsoft бизнес решения за анализ за прогноза 6.7 следва фиксираните правила за жизнения цикъл.
+  title: Microsoft Business Solutions за Analytics Forecaster 6.7
+  description: Microsoft Business Solutions за Analytics Forecaster 6.7 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36be353ad94fe53b83be08cae60d98902f0e7c92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805019"
-name: Microsoft бизнес решения за анализатора за прогноза 6.7
+name: Microsoft Business Solutions за Analytics Forecaster 6.7
 summary: >+
-  Microsoft бизнес решения за анализ за прогноза 6.7 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Business Solutions за Analytics Forecaster 6.7 следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
 products:

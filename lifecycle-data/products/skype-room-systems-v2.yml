@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype системни системи v2
-  description: Skype Room Systems v2 следва модерните правила за жизнения цикъл.
+  title: Skype Room Systems v2
+  description: Skype Room Systems v2 следва Модерните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848989"
-name: Skype системни системи v2
+name: Skype Room Systems v2
 summary: >+
-  Skype Room Systems v2 следва [модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+  Skype Room Systems v2 следва [Модерните правила](/lifecycle/policies/modern) за жизнения цикъл.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/18/2016
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за обслужване](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за обслужването](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"

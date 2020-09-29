@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Сървър за дома на Windows
-  description: Windows Home Server следва фиксираните правила за жизнения цикъл.
+  title: Windows Home Server
+  description: Windows Home Server следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7858655cfe6489b145f6ec8ef4d2d113c0a1e22b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804841"
-name: Сървър за дома на Windows
+name: Windows Home Server
 summary: >+
-  Windows Home Server следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows Home Server следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
 products:

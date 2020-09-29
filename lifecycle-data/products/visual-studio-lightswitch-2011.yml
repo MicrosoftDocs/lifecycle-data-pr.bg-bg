@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Осветление за визуално студио 2011
-  description: Visual Studio LightSwitch 2011 следва фиксираните правила за жизнения цикъл.
+  title: Visual Studio LightSwitch 2011
+  description: Visual Studio LightSwitch 2011 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12d219b05d3e82323d3d5d7b6dae25393afc1afb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848852"
-name: Осветление за визуално студио 2011
+name: Visual Studio LightSwitch 2011
 summary: >+
-  Visual Studio LightSwitch 2011 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Visual Studio LightSwitch 2011 следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2011
   endDate: 01/11/2022
-content: "\n## <a name=\"links\"></a>Връзки \n* [ОсветлениеНавича](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Приложения за захранване](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio 2015 е последното издание на Visual Studio, който включва инструмента LightSwitch. Препоръчваме да използвате Microsoft PowerApps за всяко ново приложение."
+content: "\n## <a name=\"links\"></a>Връзки \n* [LightSwitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Power Apps](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio 2015 е последното издание на Visual Studio, което включва инструмента LightSwitch. Препоръчваме ви да използвате Microsoft PowerApps за всякакви разработки на нови приложения."

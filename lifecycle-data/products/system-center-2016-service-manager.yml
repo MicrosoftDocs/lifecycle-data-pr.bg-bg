@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Диспечер на услуги за системата 2016
-  description: Мениджърът на услуги за System Center 2016 следва фиксираните правила за жизнения цикъл.
+  title: System Center 2016 Service Manager
+  description: System Center 2016 Service Manager следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 324b4d018b20d596afdf61ff10658489d7f1d79f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849082"
-name: Диспечер на услуги за системата 2016
+name: System Center 2016 Service Manager
 summary: >+
-  Мениджърът на услуги за System Center 2016 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  System Center 2016 Service Manager следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Код на визуално студио
-  description: Visual Studio код следва съвременните правила за жизнения цикъл.
+  title: Visual Studio Code
+  description: Visual Studio Code следва Модерните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3d0488c1baf7058618ba22280b0795ecf6e5a6b4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848987"
-name: Код на визуално студио
+name: Visual Studio Code
 summary: >+
-  Visual Studio код следва [съвременните](/lifecycle/policies/modern) правила за жизнения цикъл.
+  Visual Studio Code следва [Модерните правила](/lifecycle/policies/modern) за жизнения цикъл.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 04/14/2016
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за обслужване](/visualstudio/productinfo/vs-servicing-mac)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за обслужването](/visualstudio/productinfo/vs-servicing-mac)"

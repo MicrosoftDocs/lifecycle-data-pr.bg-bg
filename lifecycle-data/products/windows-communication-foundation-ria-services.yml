@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Услуги на фондация "Комуникации в Windows"
-  description: RIA услугите на фондацията за комуникация в Windows следва фиксираните правила за жизнения цикъл.
+  title: Windows комуникационна фондация RIA услуги
+  description: Windows Communication Foundation RIA Services следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804328"
-name: Услуги на фондация "Комуникации в Windows"
+name: Windows комуникационна фондация RIA услуги
 summary: >+
-  RIA услугите на фондацията за комуникация в Windows следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows Communication Foundation RIA Services следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
 products:

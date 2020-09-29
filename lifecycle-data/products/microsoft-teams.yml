@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Прегледайте оригиналната статия на английски:'
-  description: Microsoft Teams следва модерните правила за жизнения цикъл.
+  title: Microsoft Teams
+  description: Microsoft Teams следва Модерните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849032"
-name: 'Прегледайте оригиналната статия на английски:'
+name: Microsoft Teams
 summary: >+
-  Microsoft Teams следва [модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+  Microsoft Teams следва [Модерните правила](/lifecycle/policies/modern) за жизнения цикъл.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Връзки \n* [Системни изисквания](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Информация за обслужване](/microsoftteams/teams-client-update)"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Системни изисквания](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Информация за обслужването](/microsoftteams/teams-client-update)"
