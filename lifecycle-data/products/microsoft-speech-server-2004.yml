@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft speech Server 2004
-  description: Microsoft speech Server 2004 следва правилата за фиксиран жизнен цикъл.
+  title: Microsoft Speech Server 2004
+  description: Microsoft Speech Server 2004 следва Фиксираните правила за жизнения цикъл.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 2fb4a48b2caffce89e54dac838ff7f1149886d48
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937066"
-name: Microsoft speech Server 2004
+name: Microsoft Speech Server 2004
 summary: >+
-  Microsoft speech Server 2004 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Microsoft Speech Server 2004 следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
   Това се отнася до следните издания: Enterprise, Standard

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Сървър на Microsoft Class 3,0
-  description: Microsoft Class Server 3,0 следва правилата за фиксиран жизнен цикъл.
+  title: Microsoft Class Server 3.0
+  description: Microsoft Class Server 3.0 следва Фиксираните правила за жизнения цикъл.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 1d14c56151ecf68d4493cea9a79047eee7df4bd2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934624"
-name: Сървър на Microsoft Class 3,0
+name: Microsoft Class Server 3.0
 summary: >+
-  Microsoft Class Server 3,0 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Microsoft Class Server 3.0 следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
   Това се отнася до следните издания: Standard

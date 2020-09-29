@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Mediaroom
-  description: Microsoft Mediaroom следва правилата за фиксиран жизнен цикъл.
+  description: Microsoft Mediaroom следва Фиксираните правила за жизнения цикъл.
   ms.date: 09/01/2020
   keywords: Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1
   ms.openlocfilehash: 5842b1725e7c5cbc964de743111a400d2b7de2b9
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930591"
 name: Microsoft Mediaroom
 summary: >+
-  Microsoft Mediaroom следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Microsoft Mediaroom следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
-  Това се отнася за следните издания: Услуги за приложения 1,0, клиент 2,0, клиент 2,1, Server 2,0, Server 2,1
+  Това се отнася до следните издания: Application Services 1.0, Client 2.0, Client 2.1, Server 2.0, Server 2.1
 
 products:
 - windows
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/03/2010
-content: "\n\n> [!NOTE]\n> Ericsson е придобил продуктите на Microsoft Mediaroom в 2013. За повече информация вижте [прессъобщението](http://www.ericsson.com/news/1691160). За клиенти, които имат нужда от поддръжка, отидете [тук](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediaroom client 2,1 е издадена на 27 декември 2011. \n\n## <a name=\"editions\"></a>Издания \n* Услуги за приложения 1,0\n* Клиент 2,0\n* Клиент 2,1\n* Сървър 2,0\n* Сървър 2,1"
+content: "\n\n> [!NOTE]\n> През 2013 г. Ericsson придоби продукти на Microsoft Мediaroom. За повече информация, вижте [прессъобщението](http://www.ericsson.com/news/1691160). Клиенти, които се нуждаят от поддръжка, могат да отидат [тук](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx). \n> [!NOTE]\n> Microsoft Mediaroom Client 2.1 е издаден на 27 декември 2011 г. \n\n## <a name=\"editions\"></a>Издания \n* Application Services 1.0\n* Client 2.0\n* Client 2.1\n* Server 2.0\n* Server 2.1"

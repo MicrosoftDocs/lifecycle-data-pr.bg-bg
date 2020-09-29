@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Publisher 2016
-  description: Publisher 2016 следва правилата за фиксиран жизнен цикъл.
+  description: Publisher 2016 следва Фиксираните правила за жизнения цикъл.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: da399cd636aa0fe84a000ab93878bcf08c27f446
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926114"
 name: Publisher 2016
 summary: >+
-  Publisher 2016 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  Publisher 2016 следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
   Това се отнася до следните издания: Standard
