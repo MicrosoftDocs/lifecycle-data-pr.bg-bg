@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: WinTarget 2,0
-  description: WinTarget 2,0 следва правилата за фиксиран жизнен цикъл.
+  title: WinTarget 2.0
+  description: WinTarget 2.0 следва Фиксираните правила за жизнения цикъл.
   ms.date: 09/01/2020
   keywords: Advanced,Standard
   ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938731"
-name: WinTarget 2,0
+name: WinTarget 2.0
 summary: >+
-  WinTarget 2,0 следва правилата за [фиксиран](/lifecycle/policies/fixed) жизнен цикъл.
+  WinTarget 2.0 следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
-  Това се отнася за следните издания: Advanced, Standard
+  Това се отнася до следните издания: Advanced, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/07/2006
   endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> Поддръжката за този продукт е обект на условията на неговото придобиване.\n\n## <a name=\"editions\"></a>Издания \n* Разширени\n* Standard"
+content: "\n\n> [!NOTE]\n> Поддръжката за този продукт е обект на условията на неговото придобиване.\n\n## <a name=\"editions\"></a>Издания \n* Advanced\n* Standard"
