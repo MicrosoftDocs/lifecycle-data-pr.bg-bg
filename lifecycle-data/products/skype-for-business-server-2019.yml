@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype за бизнес сървър 2019
-  description: Skype за бизнес сървър 2019 следва фиксираните правила за жизнения цикъл.
+  title: Skype за бизнеса сървър 2019
+  description: Skype за бизнеса сървър 2019 следва Фиксираните правила за жизнения цикъл.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1e16227ae7297efb028f02ceb3ac8bfc11ce6864
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: bg-BG
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867804"
-name: Skype за бизнес сървър 2019
+name: Skype за бизнеса сървър 2019
 summary: >+
-  Skype за бизнес сървър 2019 следва [фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Skype за бизнеса сървър 2019 следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
 
 
 products:
