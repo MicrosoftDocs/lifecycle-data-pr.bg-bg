@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core следва Модерните правила за жизнения цикъл.
-  ms.date: 09/08/2020
-  keywords: ''
-  ms.openlocfilehash: 61de53b89d60be7cc06f265b571b5769f8053350
-  ms.sourcegitcommit: 6d5e18e0097383b5852f122a79a7dc045e1d0d8f
+  ms.date: 10/16/2020
+  keywords: 
+  ms.openlocfilehash: 3893a58a054c3596d50f70244fe96b3bb5659df9
+  ms.sourcegitcommit: 3e26c892fea0b6f55cd4d050f1454019e9125ef9
   ms.translationtype: HT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 09/08/2020
-  ms.locfileid: "983699"
+  ms.lasthandoff: 10/17/2020
+  ms.locfileid: "1158098"
 name: Windows 10 IoT Core
 summary: >
   Windows 10 IoT Core следва [Модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
@@ -18,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Microsoft ще продължи да поддържа поне един полугодишен канал на Windows 10 до 14 октомври 2025 г.
+  > Този продукт ще бъде оттеглен на 10 ноември 2020 г. За да продължите да отговаряте на условията за поддръжка, моля мигрирайте към IoT Core Services.
 products:
 - windows
 policyType: modern-on-prem
@@ -41,4 +41,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта](/windows/iot-core/windows-iot-core)\n* [Лист с факти за жизнения цикъл на Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows като услуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [ЧЗВ за жизнения цикъл – продукти на Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Освен ако не бъдат отложени, последващите актуализации на функциите на полугодишния канал на Windows 10 може да бъдат инсталирани преди посочения край на датата на базовата поддръжка."
+content: "\n## <a name=\"links\"></a>Връзки \n* [ЧЗВ за жизнения цикъл – продукти на Windows](/lifecycle/faq/windows)\n* [Лист с факти за жизнения цикъл на Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows като услуга (WaaS)](/windows/deployment/update/waas-quick-start)"

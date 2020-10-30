@@ -2,13 +2,14 @@
 metadata:
   title: Skype за бизнеса онлайн
   description: Skype за бизнеса онлайн следва Съвременните правила за жизнения цикъл.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/16/2020
+  keywords: ''
+  ms.openlocfilehash: bf59d0a69fe09d791e95560ef3c69de86814a9fd
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "848991"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162174"
 name: Skype за бизнеса онлайн
 summary: >
   Skype за бизнеса онлайн следва [Съвременните](/lifecycle/policies/modern) правила за жизнения цикъл.
@@ -17,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Тази услуга ще бъде прекратена на 31 юли 2021 г. Вижте указанията за миграция по-долу.
+  > Тази услуга ще бъде прекратена на 31 юли 2021 г. Вижте указанията за миграция по-долу. Последвайте [тази връзка](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/changes-ahead-for-cloud-connector-edition-and-hybrid-voice/ba-p/1650055), за да научите за въздействието върху внедряванията на Хибриден глас.
 products:
 - office
 policyType: modern-online
