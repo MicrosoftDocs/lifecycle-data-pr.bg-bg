@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Essentials 2010
-  description: Microsoft System Center Essentials 2010 следва Фиксираните правила за жизнения цикъл.
+  description: Microsoft System Center Essentials 2010 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: All applicable,wSQL
   ms.openlocfilehash: 93f05c6b49b851871ea5d7f6a2066310ae3144e2
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "938176"
 name: Microsoft System Center Essentials 2010
 summary: >+
-  Microsoft System Center Essentials 2010 следва [Фиксираните правила](/lifecycle/policies/fixed) за жизнения цикъл.
+  Microsoft System Center Essentials 2010 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
   Това се отнася за следните издания: всички приложими, wSQL
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/28/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Издания \n* All applicable\n* wSQL"
+content: "\n\n\n## <a name=\"editions\"></a>Издания \n* Всички приложими\n* wSQL"

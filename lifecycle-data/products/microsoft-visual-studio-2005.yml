@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Studio 2005
-  description: Microsoft Visual Studio 2005 следва Фиксираните правила за жизнения цикъл.
+  description: Microsoft Visual Studio 2005 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: Professional,Standard,Standard Edition academic license,Team Edition for Database Professionals,Team Edition for Software Architects,Team Edition for Software Developers,Team Edition for Software Testers,Team Suite,Team Test Load Agent,Tools for the Microsoft Office System,VB Express,Visual C# Express,Visual C++ Express,Visual J# Express,Visual Web Developer Express
   ms.openlocfilehash: 40a88454af5c829ab424be8f9ea26f8866af6013
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "937584"
 name: Microsoft Visual Studio 2005
 summary: >+
-  Microsoft Visual Studio 2005 следва  [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft Visual Studio 2005 следва  [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася до следните издания: Professional, Standard, академичен лиценз за Standard Edition, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools for the Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+  Това се отнася до следните издания: Professional, Standard, Standard Edition academic license, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools for the Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Информация за поддръжката на Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Информация за продукта Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Поддръжката за този продукт е приключила. Вижте указанията за миграция по-долу.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals е издаден на 2 март 2007 г.\n\n## <a name=\"editions\"></a>Издания \n* Professional\n* Standard\n* Академичен лиценз за Standard Edition\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Инструменти за Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Информация за поддръжката на Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Информация за продукта Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Поддръжката за този продукт е приключила. Вижте указанията за мигриране по-долу.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals е издаден на 2 март 2007 г.\n\n## <a name=\"editions\"></a>Издания \n* Professional\n* Standard\n* Standard Edition academic license\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Tools for the Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

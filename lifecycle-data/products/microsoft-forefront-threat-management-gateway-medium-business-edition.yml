@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront Threat Management Gateway, издание за средния бизнес
+  title: Microsoft Forefront Threat Management Gateway, Medium Business Edition
   description: Microsoft Forefront Threat Management Gateway, Medium Business Edition следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/10/2020
   keywords: Business
@@ -10,7 +10,7 @@ metadata:
   ms.contentlocale: bg-BG
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001896"
-name: Microsoft Forefront Threat Management Gateway, издание за средния бизнес
+name: Microsoft Forefront Threat Management Gateway, Medium Business Edition
 summary: >+
   Microsoft Forefront Threat Management Gateway, Medium Business Edition следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 

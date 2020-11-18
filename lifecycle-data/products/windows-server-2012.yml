@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012
-  description: Windows Server 2012 следва Фиксираните правила за жизнения цикъл.
+  description: Windows Server 2012 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: Datacenter,Essentials,External Connector,for Embedded Systems,Foundation,Standard
   ms.openlocfilehash: a3b2666efc31669a997f7726ad092705d2c52517
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "939434"
 name: Windows Server 2012
 summary: >+
-  Windows Server 2012 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows Server 2012 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася до следните издания: Datacenter, Essentials, External Connector, за Embedded Systems, Foundation, Standard
+  Това се отнася до следните издания: Datacenter, Essentials, External Connector, for Embedded Systems, Foundation, Standard
 
 products:
 - windows

@@ -15,7 +15,7 @@ summary: >+
   Microsoft Connected Services Framework 3.0 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
-  Това се отнася до следните издания: Стандартно бизнес събитие за фактуриране, Поръчка за обработка на стандартни бизнес събития, Сървър, Стандартен, Стандартен сървър със стандартни бизнес събития
+  Това се отнася до следните издания: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server with Standard Business Events
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Издания \n* Стандартно бизнес събитие за фактуриране\n* Поръчка за обработка на стандартни бизнес събития\n* Server\n* Standard\n* Стандартен сървър със стандартни бизнес събития"
+content: "\n\n\n## <a name=\"editions\"></a>Издания \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* Server\n* Standard\n* Standard Server with Standard Business Events"

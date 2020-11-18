@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 365 за Talent
-  description: Dynamics 365 за Talent следва Модерните правила за жизнения цикъл.
+  description: Dynamics 365 за Talent следва Съвременните правила за жизнения цикъл.
   ms.date: 09/01/2020
   keywords: Onboard
   ms.openlocfilehash: de03f162a1781f88e66a030774e5c31771e4f0f6
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "930702"
 name: Dynamics 365 за Talent
 summary: >+
-  Dynamics 365 за Talent следва [Модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+  Dynamics 365 за Talent следва [Съвременните правила](/lifecycle/policies/modern) за жизнения цикъл.
 
 
   Това се отнася до следните издания: Onboard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Връзки \n* [Системни изисквания](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Указания за мигриране](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Приложенията Attract и Onboard ще бъдат оттеглени на 2 февруари 2022 г.  Core HR стартира повторно като Dynamics 365 Human Resources на 1 февруари 2020 г., вижте ръководство за миграция за повече информация.\n\n## <a name=\"editions\"></a>Издания \n* Onboard"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Системни изисквания](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Указания за мигриране](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Приложенията Attract и Onboard ще бъдат оттеглени на 2 февруари 2022 г.  Core HR стартира повторно като Dynamics 365 Human Resources на 1 февруари 2020 г., вижте ръководството за мигриране за повече информация.\n\n## <a name=\"editions\"></a>Издания \n* Onboard"
