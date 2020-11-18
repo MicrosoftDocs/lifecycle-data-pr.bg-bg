@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Пакет Windows Azure (на Windows Server 2012 R2)
-  description: Пакетът Windows Azure (на Windows Server 2012 R2) следва Фиксираните правила за жизнения цикъл.
+  title: Windows Azure Pack (на Windows Server 2012 R2)
+  description: Windows Azure Pack (на Windows Server 2012 R2) следва Правилата за фиксиран жизнен цикъл.
   ms.date: 10/19/2020
   keywords: 
   ms.openlocfilehash: 38fe3e0f5e46d996504b594c78e8717330b720c0
@@ -10,9 +10,9 @@ metadata:
   ms.contentlocale: bg-BG
   ms.lasthandoff: 10/19/2020
   ms.locfileid: "1160898"
-name: Пакет Windows Azure (на Windows Server 2012 R2)
+name: Windows Azure Pack (на Windows Server 2012 R2)
 summary: >+
-  Пакетът Windows Azure (на Windows Server 2012 R2) следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Windows Azure Pack (на Windows Server 2012 R2) следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
   Това се отнася за следните издания: на Windows Server 2012 R2
@@ -31,4 +31,4 @@ releases:
 - version: V2 Web Sites
   startDate: 01/14/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Връзки \n* [Дати на жизнения цикъл на поддръжката на Windows Azure Pack Web Sites V2](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Информация за продукти на Windows Azure Pack за Windows Server](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Издания \n* на Windows Server 2012 R2"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Дати за поддръжка на жизнения цикъл на Windows Azure Pack Web Sites V2](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Информация за продукти на Windows Azure Pack за Windows Server](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Издания \n* на Windows Server 2012 R2"
