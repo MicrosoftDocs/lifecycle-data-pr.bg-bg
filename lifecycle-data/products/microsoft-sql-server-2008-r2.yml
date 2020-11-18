@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2008 R2
-  description: Microsoft SQL Server 2008 R2 следва Фиксираните правила за жизнения цикъл.
+  description: Microsoft SQL Server 2008 R2 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: Datacenter,Developer,Enterprise,Express,Express with Advanced Services,for Embedded Systems,Standard,Standard Edition for Small Business,Web,Workgroup
   ms.openlocfilehash: 338c0e474c0c8f93d36dd3c165920ef49f89f4ec
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "937695"
 name: Microsoft SQL Server 2008 R2
 summary: >+
-  Microsoft SQL Server 2008 R2 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+  Microsoft SQL Server 2008 R2 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
   Това се отнася до следните издания: Datacenter, Developer, Enterprise, Express, Express with Advanced Services, for Embedded Systems, Standard, Standard Edition for Small Business, Web, Workgroup
