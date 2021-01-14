@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 Home и Pro
   description: Windows 10 Home и Pro следват Модерните правила за жизнен цикъл.
-  ms.date: 10/09/2020
+  ms.date: 01/06/2021
   keywords: 
-  ms.openlocfilehash: 095634809dda7456b4aa5cae512bbfef43253f87
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 08357bee167da5de4be0f76194a48b1033d3584c
+  ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
   ms.translationtype: HT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162470"
+  ms.lasthandoff: 01/06/2021
+  ms.locfileid: "1367515"
 name: Windows 10 Home и Pro
 summary: "Windows 10 Home и Pro следват [Модерните](/lifecycle/policies/modern) правила за жизнен цикъл. \n\nТова се отнася до следните издания: Home, Pro, Pro Education, Pro for Workstations\n\n> [!IMPORTANT]\n> Microsoft ще продължи да поддържа поне един полугодишен канал на Windows 10 до 14 октомври 2025 г.\n"
 products:
@@ -35,7 +35,7 @@ releases:
   startDate: 11/13/2018
   endDate: 11/10/2020
 - version: Version 1803
-  startDate: 10/17/2017
+  startDate: 04/30/2018
   endDate: 11/12/2019
 - version: Version 1709
   startDate: 10/17/2017
