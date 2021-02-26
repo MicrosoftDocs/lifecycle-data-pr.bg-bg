@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Defender за IoT
+  description: Azure Defender за IoT следва съвременните правила за жизнения цикъл.
+  ms.date: 01/21/2021
+  keywords: 
+  ms.openlocfilehash: 28bc5df644a746cb65fd14a284a53271673b43b4
+  ms.sourcegitcommit: ffa04eb30e10bcb221fe81620a904f87ea6c2df2
+  ms.translationtype: HT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 02/17/2021
+  ms.locfileid: "1449530"
+name: Azure Defender за IoT
+summary: >+
+  Azure Defender за IoT следва [Съвременните правила](/lifecycle/policies/modern) за жизнения цикъл.
+
+
+products:
+- azure
+policyType: modern-on-prem
+supportDates:
+  start: 01/04/2021
+releases:
+- version: Original Release
+  startDate: 01/04/2021
+content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за обслужване](/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history#servicing-information-and-timelines)"
