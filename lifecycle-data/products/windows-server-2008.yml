@@ -2,14 +2,14 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 следва Фиксираните правила за жизнен цикъл.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Datacenter without Hyper-V,Enterprise,Enterprise without Hyper-V,for Itanium-Based Systems,Foundation,Standard,Standard without Hyper-V,Web
-  ms.openlocfilehash: 30b07c95bb7d37ab822e5e2238983fd70d918889
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 04/23/2021
+  keywords: 
+  ms.openlocfilehash: 9f958fbc26dddbf3e388c598e868b94eb1713541
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939508"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029827"
 name: Windows Server 2008
 summary: "Windows Server 2008 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнен цикъл. \n\nТова се отнася до следните издания: Datacenter, Datacenter без Hyper-V, Enterprise, Enterprise без Hyper-V, за Itanium-базирани системи, Foundation, Standard, Standard без Hyper-V, Web\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. Вижте указанията за миграцията по-долу.\n"
 products:
@@ -20,10 +20,19 @@ supportDates:
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
+- version: Extended Security Update Year 3
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1
+  startDate: 01/14/2020
+  endDate: 01/12/2021
 - version: Service Pack 2
   startDate: 04/29/2009
   endDate: 01/14/2020
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://aka.ms/AA1ovn4)\n* [Информация за надстройка на сървър](/windows-server/upgrade/upgrade-overview)\n* [Програма за разширена актуализация на защитата (ESU)](/lifecycle/faq/extended-security-updates)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Разширените актуализации на защитата (ESU) са налични за изданията Datacenter, Standard, Enterprise и Embedded на този продукт в продължение на до три години след края на поддръжката. Свържете се с вашия партньор на Microsoft или екип за акаунта, за да научите повече. \n\nИздание-------------------------------Начална дата----Крайна дата\n\nРазширена актуализация на защитата, година 3---01/11/2022---01/10/2023\n\nРазширена актуализация на защитата, година 2---01/12/2021---01/11/2022\n\nРазширена актуализация на защитата, година 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation е издаден на 21 май 2009 г.\n\n## <a name=\"editions\"></a>Издания \n* Datacenter\n* Datacenter без Hyper-V\n* Enterprise\n* Enterprise без Hyper-V\n* за Itanium-базирани системи\n* Foundation\n* Standard\n* Standard без Hyper-V\n* Web"
+content: "> [!TIP]\n> *Разширените актуализации на защитата (ESU) са налични за конкретни програми за корпоративно лицензиране за изданията Datacenter, Standard, Enterprise и Embedded на този продукт в продължение на до три допълнителни години след края на поддръжката. Свържете се с вашия партньор на Microsoft или екип за акаунта, за да научите повече. \n\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://aka.ms/AA1ovn4)\n* [Информация за надстройка на сървър](/windows-server/upgrade/upgrade-overview)\n* [Програма за разширена актуализация на защитата (ESU)](/lifecycle/faq/extended-security-updates)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Windows Server 2008 Foundation е издаден на 21 май 2009 г.\n\n## <a name=\"editions\"></a>Издания \n* Datacenter\n* Datacenter без Hyper-V\n* Enterprise\n* Enterprise без Hyper-V\n* за Itanium-базирани системи\n* Foundation\n* Standard\n* Standard без Hyper-V\n* Web"
