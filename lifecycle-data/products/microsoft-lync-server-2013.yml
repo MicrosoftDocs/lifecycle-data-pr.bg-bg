@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2013
-  description: Microsoft Lync Server 2013 следва Правилата за фиксиран жизнен цикъл.
+  description: Microsoft Lync Server 2013 следва Фиксираните правила за жизнен цикъл.
   ms.date: 09/01/2020
   keywords: Enterprise,Persistent Chat Software Development Kit,Phone,SDK,Standard
-  ms.openlocfilehash: d6885f287ffa2bda2803e707d93db7ad5fdf5cb0
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 34538d98f2544a37c43ef4db5cddf07502111f81f4329ffa7883322caae0df1d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930665"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498501"
 name: Microsoft Lync Server 2013
-summary: "Microsoft Lync Server 2013 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл. \n\nТова се отнася до следните издания: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard\n\n"
+summary: "Microsoft Lync Server 2013 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнен цикъл. \n\nТова се отнася до следните издания: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard\n\n"
 products:
 - office
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition се поддържа с Lync Server 2010 и Lync Server 2013. Датата на поддръжка за Lync Phone Edition е удължена с 2 години, за да се приведе в съответствие с жизнения цикъл за Lync Server 2013.\n\n## <a name=\"editions\"></a>Издания \n* Enterprise\n* Persistent Chat Software Development Kit\n* Phone\n* SDK\n* Standard"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition се поддържа с Lync Server 2010 и Lync Server 2013. Датата на поддръжка за Lync Phone Edition е удължена с 2 години, за да се приведе в съответствие с  жизнен цикъл за Lync Server 2013.\n\n## <a name=\"editions\"></a>Издания \n* Enterprise\n* Комплект за софтуерна разработка за постоянен чат\n* Телефон\n* SDK\n* Standard"
