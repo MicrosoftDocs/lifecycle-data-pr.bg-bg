@@ -3,26 +3,24 @@ metadata:
   title: Microsoft Business Solutions за Analytics--FRx 6.7 Desktop
   description: Microsoft Business Solutions за Analytics--FRx 6.7 Desktop следва Правилата за фиксиран жизнен цикъл.
   ms.date: 07/28/2020
-  ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: bg-BG
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805016"
 name: Microsoft Business Solutions за Analytics--FRx 6.7 Desktop
-summary: >+
+summary: |+
   Microsoft Business Solutions за Analytics--FRx 6.7 Desktop следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
-- dynamics
+  - dynamics
 policyType: fixed
 supportDates:
   start: 05/30/2004
   end: 07/14/2009
   extendedEnd: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 05/30/2004
-  endDate: 07/08/2014
-content: "\n\n> [!NOTE]\n> Поддръжката на FRx приключва на посочената дата, освен ако не се разпространява като компонент на продукт на Dynamics. Когато се разпространява с продукт на Dynamics, датите на жизнения цикъл на Dynamics отменят датите на FRx."
+  - version: Original Release
+    startDate: 05/30/2004
+    endDate: 07/08/2014
+content: |+
+
+
+  > [!NOTE]
+  > Поддръжката на FRx приключва на посочената дата, освен ако не се разпространява като компонент на продукт на Dynamics. Когато се разпространява с продукт на Dynamics, датите на жизнения цикъл на Dynamics отменят датите на FRx.
