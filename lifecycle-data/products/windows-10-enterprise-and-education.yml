@@ -4,12 +4,12 @@ metadata:
   description: Windows 10 Enterprise и Education следват Модерните правила за жизнен цикъл.
   ms.date: 04/23/2021
   keywords: 
-  ms.openlocfilehash: 0642fb0309b42b0a86300bb8e8f0fe2f5e15deec
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.openlocfilehash: e4f4d2c662017aa3334a0b08db7b1e46e752c50257c057dd511222e65e58a3e1
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029901"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497539"
 name: Windows 10 Enterprise и Education
 summary: "Windows 10 Enterprise и Education следват [Модерните](/lifecycle/policies/modern) правила за жизнен цикъл. \n\nТова се отнася до следните издания: Education, Enterprise\n\n> [!IMPORTANT]\n> Microsoft ще продължи да поддържа поне едно издание на полугодишния канал на Windows 10 до 14 октомври 2025 г.\nТаблицата по-долу отразява издадените версии до момента.\n"
 products:
