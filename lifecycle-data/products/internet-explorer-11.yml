@@ -4,12 +4,12 @@ metadata:
   description: Internet Explorer 11 следва Правилата за жизнения цикъл на компонентите.
   ms.date: 05/18/2021
   keywords: 
-  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.openlocfilehash: 3224f71b4a69cb311899809b385069ab7e3664274146044d9d624e29d3cde008
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029494"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2519739"
 name: Internet Explorer 11
 summary: "Internet Explorer 11 следва Правилата за жизнения цикъл на [компонентите](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). \n\n\n\n\n> [!IMPORTANT]\n> Поддръжката за настолното приложение Internet Explorer (IE) 11 ще бъде прекратена за определени операционни системи, считано от 15 юни 2022 г. Клиентите се насърчават да преминат към Microsoft Edge с IE режим. IE режимът позволява съвместимост с предишни версии и ще бъде поддържан поне до края на 2029 г. Освен това Microsoft ще предостави известие една година преди оттеглянето на IE режима. Отидете [тук](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-), за да видите списък на поддържаните операционни системи за Internet Explorer, включително версии, засегнати от това обявление.\n\n"
 products:
