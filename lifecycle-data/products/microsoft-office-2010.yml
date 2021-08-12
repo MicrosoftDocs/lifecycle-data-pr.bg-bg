@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Office 2010 следва Фиксираните правила за жизнения цикъл.
   ms.date: 09/01/2020
   keywords: eAcademy,Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Professional Plus Home Use Program,Standard,Starter
-  ms.openlocfilehash: 1a7445f2aca96dded4d5845dd61d709d62c52bfe
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: cd43924682ec0d3fb821f74d55f8fcf2a9a222f1a622a6b3e753acca7699a9a0
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936548"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2494505"
 name: Microsoft Office 2010
 summary: >+
   Microsoft Office 2010 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Връзки \n* [Пътна карта на края на поддръжката на Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* eAcademy\n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Professional Plus, програма за използване в домашни условия\n* Standard\n* Starter"
+content: "\n## <a name=\"links\"></a>Връзки \n* [Пътна карта на края на поддръжката на Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* eAcademy\n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Professional Plus Home Use Program\n* Standard\n* Starter"
