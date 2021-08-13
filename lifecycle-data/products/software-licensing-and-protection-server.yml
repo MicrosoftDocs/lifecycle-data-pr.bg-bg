@@ -3,33 +3,32 @@ metadata:
   title: Лицензиране на софтуера и сървър за защита
   description: Лицензирането на софтуера и сървъра за защита следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: bg-BG
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001045"
+  keywords: 'Enterprise,Standard'
 name: Лицензиране на софтуера и сървър за защита
-summary: >
+summary: |
   Лицензирането на софтуера и сървъра за защита следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
-
 
   Това се отнася за следните издания: Enterprise, Standard
 
-
   > [!IMPORTANT]
-
   > Поради изтеглянето на инвестициите от сървъра за лицензиране и защита на софтуер (SLPS) Microsoft поддържаше SLPS до 24 септември 2009 г.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Връзки \n* [Сървър за лицензиране и защита на софтуер (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Издания \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Връзки 
+  * [Сървър за лицензиране и защита на софтуер (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Издания 
+  * Enterprise
+  * Standard

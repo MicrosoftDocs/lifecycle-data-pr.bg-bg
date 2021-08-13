@@ -3,36 +3,37 @@ metadata:
   title: Virtual PC 2004
   description: Virtual PC 2004 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/10/2020
-  keywords: Express,Standard
-  ms.openlocfilehash: 858fa64b63de7edadffbc6d4514d1a9f7ea6e42a
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: bg-BG
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000829"
+  keywords: 'Express,Standard'
 name: Virtual PC 2004
-summary: >
+summary: |
   Virtual PC 2004 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
-
 
   Това се отнася за следните издания: Express, Standard
 
-
   > [!IMPORTANT]
-
   > Поддръжката за този продукт е приключила.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/20/2004
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 1
-  startDate: 08/30/2006
-  endDate: 04/08/2014
-- version: Original Release
-  startDate: 01/20/2004
-  endDate: 10/09/2007
-content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express е публикуван на 13 април 2006 г.\n\n## <a name=\"links\"></a>Връзки \n* [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Издания \n* Express\n* Standard"
+  - version: Service Pack 1
+    startDate: 08/30/2006
+    endDate: 04/08/2014
+  - version: Original Release
+    startDate: 01/20/2004
+    endDate: 10/09/2007
+content: |
+  > [!TIP]
+  > Microsoft Virtual PC 2004 Express е публикуван на 13 април 2006 г.
+
+  ## <a name="links"></a>Връзки 
+  * [Правила за сервизните пакети](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Издания 
+  * Express
+  * Standard
