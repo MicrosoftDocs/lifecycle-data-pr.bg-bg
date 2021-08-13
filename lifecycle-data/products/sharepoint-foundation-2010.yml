@@ -4,32 +4,35 @@ metadata:
   description: SharePoint Foundation 2010 следва Правилата за фиксиран жизнен цикъл.
   ms.date: 09/01/2020
   keywords: ''
-  ms.openlocfilehash: 280f3157ee4cf5b5e9d0a3b2f3a597c3b4c6afbc
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: bg-BG
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162729"
 name: SharePoint Foundation 2010
-summary: >+
+summary: |+
   SharePoint Foundation 2010 следва [Правилата](/lifecycle/policies/fixed) за фиксиран жизнен цикъл.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/21/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Удължаване на поддръжката](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Документация за разработчици на Microsoft SharePoint Foundation 2010](/previous-versions/office/ee535067(v=office.14))\n* [Документация за продукта Microsoft SharePoint Foundation 2010](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))\n\n> [!NOTE]\n> Крайната дата на поддръжка на този продукт е удължена от 13 октомври 2020 г. до 13 април 2021 г."
+  - version: Service Pack 2
+    startDate: 07/21/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: |+
+
+  ## <a name="links"></a>Връзки 
+  * [Указания за мигриране](/office365/enterprise/upgrade-from-sharepoint-2010)
+  * [Удължаване на поддръжката](https://aka.ms/SharePoint/server/2010/supportextension)
+  * [Документация за разработчици на Microsoft SharePoint Foundation 2010](/previous-versions/office/ee535067(v=office.14))
+  * [Документация за продукта Microsoft SharePoint Foundation 2010](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))
+
+  > [!NOTE]
+  > Крайната дата на поддръжка на този продукт е удължена от 13 октомври 2020 г. до 13 април 2021 г.
