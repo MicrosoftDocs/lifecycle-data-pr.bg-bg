@@ -3,23 +3,36 @@ metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008 следва Фиксираните правила за жизнения цикъл.
   ms.date: 09/01/2020
-  keywords: Premium,Standard
-  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: bg-BG
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939175"
+  keywords: 'Premium,Standard'
 name: Windows Small Business Server 2008
-summary: "Windows Small Business Server 2008 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.\n\nТова се отнася до следните издания: Premium, Standard\n\n> [!IMPORTANT]\n> Поддръжката за този продукт е приключила. \n\nПериодът на поддръжка за този продуктов пакет се определя от съответния жизнен цикъл на всеки отделен негов компонентен продукт. Прегледайте жизнения цикъл на отделния компонентен продукт, за да определите продължителността на поддръжката.\n"
+summary: |
+  Windows Small Business Server 2008 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
+  Това се отнася до следните издания: Premium, Standard
+
+  > [!IMPORTANT]
+  > Поддръжката за този продукт е приключила. 
+
+  Периодът на поддръжка за този продуктов пакет се определя от съответния жизнен цикъл на всеки отделен негов компонентен продукт. Прегледайте жизнения цикъл на отделния компонентен продукт, за да определите продължителността на поддръжката.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/21/2008
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 11/21/2008
-  endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Издания \n* Premium\n* Standard"
+  - version: Original Release
+    startDate: 11/21/2008
+    endDate: 01/14/2020
+content: |
+
+  ## <a name="links"></a>Връзки 
+  * [Указания за мигриране](https://aka.ms/AA1ovn4)
+  * [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)
+  * [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)
+  * [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)
+
+
+  ## <a name="editions"></a>Издания 
+  * Premium
+  * Standard
