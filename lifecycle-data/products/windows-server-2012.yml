@@ -2,11 +2,18 @@
 metadata:
   title: Windows Server 2012
   description: Windows Server 2012 следва Фиксираните правила за жизнения цикъл.
-  ms.date: 07/12/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: 
+  ms.openlocfilehash: 4aaf6ab9c89c90bd7017bf7048a93890cd7f396e
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560120"
 name: Windows Server 2012
-summary: |+
+summary: >+
   Windows Server 2012 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнения цикъл.
+
 
 
   Това се отнася до следните издания: Datacenter, Essentials, External Connector, за Embedded Systems, Foundation, Standard
@@ -14,42 +21,23 @@ summary: |+
 
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 10/14/2025
-    endDate: 10/13/2026
-  - version: Extended Security Update Year 2
-    startDate: 10/08/2024
-    endDate: 10/14/2025
-  - version: Extended Security Update Year 1
-    startDate: 10/10/2023
-    endDate: 10/08/2024
-  - version: Original Release
-    startDate: 10/30/2012
-    endDate: 10/10/2023
-content: |+
-
-
-  ## <a name="links"></a>Връзки 
-  * [Указания за мигриране](/windows-server/upgrade/upgrade-overview)
-  * [Информация за продукта](/windows/release-information/status-windows-server-2012)
-  * [Често задавани въпроси за жизнения цикъл – разширени актуализации на защитата](/lifecycle/faq/extended-security-updates)
-
-
-  > [!NOTE]
-  > Базовата и разширена поддръжка за този продукт е удължена, за да предостави на клиентите стандартната времева линия за преход на жизнения цикъл. Windows Server Essentials е издаден на 2 януари 2013 г.
-
-
-  ## <a name="editions"></a>Издания 
-  * Datacenter
-  * Essentials
-  * External Connector
-  * for Embedded Systems
-  * Foundation
-  * Standard
+- version: Extended Security Update Year 3
+  startDate: 10/15/2025
+  endDate: 10/13/2026
+- version: Extended Security Update Year 2
+  startDate: 10/09/2024
+  endDate: 10/14/2025
+- version: Extended Security Update Year 1
+  startDate: 10/11/2023
+  endDate: 10/08/2024
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n\n## <a name=\"links\"></a>Връзки \n* [Указания за мигриране](/windows-server/upgrade/upgrade-overview)\n* [Информация за продукта](/windows/release-information/status-windows-server-2012)\n* [Често задавани въпроси за жизнения цикъл – разширени актуализации на защитата](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> Базовата и разширена поддръжка за този продукт е удължена, за да предостави на клиентите стандартната времева линия за преход на жизнения цикъл. Windows Server Essentials е издаден на 2 януари 2013 г.\n\n\n## <a name=\"editions\"></a>Издания \n* Datacenter\n* Essentials\n* External Connector\n* for Embedded Systems\n* Foundation\n* Standard"
