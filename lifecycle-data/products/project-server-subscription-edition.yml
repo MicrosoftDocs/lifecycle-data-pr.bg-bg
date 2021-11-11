@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Издание с абонамент на Project Server
+  description: Изданието с абонамент на Project Server следва Съвременните правила за жизнения цикъл.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3775c728a11e4e8f85fd3866670d6ce7fcc5f808
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546749"
+name: Издание с абонамент на Project Server
+summary: >+
+  Изданието с абонамент на Project Server следва [Модерните](/lifecycle/policies/modern) правила за жизнения цикъл.
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Вижте документацията за [продукта](https://docs.microsoft.com/project/project-server-2013-and-2016) и [разработчиците](https://docs.microsoft.com/office/dev/add-ins/project/)."

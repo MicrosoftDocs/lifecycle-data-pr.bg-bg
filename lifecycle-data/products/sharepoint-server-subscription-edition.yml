@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Издание за абонамент за сървър SharePoint
+  description: Изданието с абонамент на SharePoint Server следва Съвременните правила за жизнения цикъл.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3e5e5eb0b969e8d18a37532e4b5750be288bcebf
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546753"
+name: Издание за абонамент за сървър SharePoint
+summary: >+
+  Издание за абонамент за сървър SharePoint следва [съвременните](/lifecycle/policies/modern) правила за жизнения цикъл.
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Вижте документацията за [продукта](https://docs.microsoft.com/sharepoint/sharepoint-server) и [разработчиците](https://docs.microsoft.com/sharepoint/dev/)."
