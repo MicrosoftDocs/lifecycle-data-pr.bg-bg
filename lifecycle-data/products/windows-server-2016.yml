@@ -3,10 +3,17 @@ metadata:
   title: Windows Server 2016
   description: Windows Server 2016 следва Фиксираните правила за жизнен цикъл.
   ms.date: 07/09/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 8d681747bc516263f47b6900cbf90c5f915601ce
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134931"
 name: Windows Server 2016
-summary: |+
+summary: >+
   Windows Server 2016 следва [Фиксираните](/lifecycle/policies/fixed) правила за жизнен цикъл.
+
 
 
   Това се отнася до следните издания: Datacenter, Essentials, MultiPoint Premium, Standard
@@ -14,31 +21,14 @@ summary: |+
 
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 10/15/2016
-  end: 01/11/2022
-  extendedEnd: 01/12/2027
+  start: 2016-10-15T00:00:00.000-08:00
+  end: 2022-01-11T22:59:59.999-08:00
+  extendedEnd: 2027-01-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/15/2016
-    endDate: 01/12/2027
-content: |+
-
-
-  ## <a name="links"></a>Връзки 
-  * [Информация за продукта](/windows-server/get-started/server-basics)
-  * [ЧЗВ за жизнения цикъл – продукти на Windows](/lifecycle/faq/windows)
-  * [Жизнен цикъл на обслужване на контейнера на Windows за базови изображения](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)
-
-
-  > [!NOTE]
-  > Контейнерите, пуснати с Windows Server 2016, следват същите дати на жизнения цикъл.
-
-
-  ## <a name="editions"></a>Издания 
-  * Datacenter
-  * Essentials
-  * MultiPoint Premium
-  * Standard
+- version: Original Release
+  startDate: 2016-10-15T00:00:00.000-08:00
+  endDate: 2027-01-12T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Връзки \n* [Информация за продукта](/windows-server/get-started/server-basics)\n* [ЧЗВ за жизнения цикъл – продукти на Windows](/lifecycle/faq/windows)\n* [Жизнен цикъл на обслужване на контейнера на Windows за базови изображения](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Контейнерите, пуснати с Windows Server 2016, следват същите дати на жизнения цикъл.\n\n\n## <a name=\"editions\"></a>Издания \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"
