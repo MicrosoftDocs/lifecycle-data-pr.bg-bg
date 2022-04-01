@@ -1,13 +1,13 @@
 ---
 title: Продукти, за които поддръжката приключва през 2021 г.
 description: Разберете кои продукти ще бъдат оттеглени, ще достигнат края на поддръжката си или ще преминат от базова към разширена поддръжка през 2021 г.
-ms.date: 11/03/2021
-ms.openlocfilehash: a3404257f04c2f022e648e067f78204a220bd3fc
-ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+ms.date: 01/14/2022
+ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "4027638"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117467"
 ---
 # <a name="products-ending-support-in-2021"></a>Продукти, за които поддръжката приключва през 2021 г.
 
@@ -24,7 +24,7 @@ ms.locfileid: "4027638"
 
 | Продукт | Оттегляне |
 | --- | --- |
-| [Клиент Azure Information Protection](/lifecycle/products/azure-information-protection-client?branch=live)<br> | 31 март 2021 г. |
+| [Класически клиент за Защита на информацията в Azure](/lifecycle/products/azure-information-protection-classic-client?branch=live)<br> | 31 март 2021 г. |
 | [Azure Dev Spaces](/lifecycle/products/azure-dev-spaces?branch=live)<br> | 15 май 2021 г. |
 | [Skype за бизнеса онлайн](/lifecycle/products/skype-for-business-online?branch=live)<br> | 31 юли 2021 г. |
 | [Dynamics 365 Layout](/lifecycle/products/dynamics-365-layout?branch=live)<br> | 31 декември 2021 г. |
@@ -39,7 +39,7 @@ ms.locfileid: "4027638"
 | [Microsoft Endpoint Configuration Manager, версия 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 26 януари 2021 г. |
 | [Локален Dynamics 365 Business Central (Съвременни правила), издание от 2019 г., вълна 2, версия 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 април 2021 г. |
 | [Windows 10 Enterprise и Education, версия 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise и Education, версия 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home и Pro, версия 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, версия 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, версия 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, версия 1909](/lifecycle/products/windows-server?branch=live)<br> | 11 май 2021 г. |
-| [Microsoft Endpoint Configuration Manager, версия 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 май 2021 г. |
+| [Microsoft Endpoint Configuration Manager, версия 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, версия 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 май 2021 г. |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 21 август 2021 г. |
 | [Microsoft Endpoint Configuration Manager, версия 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 01 октомври 2021 г. |
 | [Локален Dynamics 365 Business Central (Съвременни правила), издание от 2020 г., вълна 1, версия 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 октомври 2021 г. |

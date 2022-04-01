@@ -3,32 +3,26 @@ metadata:
   title: Приложения на Microsoft 365
   description: Приложенията на Microsoft 365 следват съвременните правила за жизнения цикъл.
   ms.date: 04/07/2021
-  keywords: 'Office 365 Business,Office 365 ProPlus,for business,for enterprise'
+  keywords: Office 365 Business,Office 365 ProPlus,for business,for enterprise
+  ms.openlocfilehash: df188eeb73187be1007b85338632762e6c9153b7
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154985"
 name: Приложения на Microsoft 365
-summary: |+
+summary: >+
   Приложенията на Microsoft 365 следват [Съвременните правила](/lifecycle/policies/modern) за жизнения цикъл.
+
 
   Това се отнася за следните издания: за бизнеса, за предприятия
 
 products:
-  - office
+- office
 policyType: modern-online
 supportDates:
-  start: 09/22/2015
+  start: 2015-09-22T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 09/22/2015
-content: |
-
-  ## <a name="links"></a>Връзки 
-  * [Поддържани версии](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)
-  * [Системни изисквания](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
-  * [Матрица за поддръжка на конфигурация на Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)
-  * [Ръководство за внедряване на приложенията на Microsoft 365](/DeployOffice/deployment-guide-microsoft-365-apps)
-
-  > [!NOTE]
-  > Приложенията на Microsoft 365 за предприятия преди се наричаха Office 365 ProPlus. Приложенията на Microsoft 365 за бизнеса преди се наричаха Office 365 Business.
-
-  ## <a name="editions"></a>Издания 
-  * за бизнеса
-  * за предприятия
+- version: Original Release
+  startDate: 2015-09-22T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Връзки \n* [Поддържани версии](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)\n* [Системни изисквания](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Матрица за поддръжка на конфигурация на Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Ръководство за внедряване на приложенията на Microsoft 365](/DeployOffice/deployment-guide-microsoft-365-apps)\n\n> [!NOTE]\n> Приложенията на Microsoft 365 за предприятия преди се наричаха Office 365 ProPlus. Приложенията на Microsoft 365 за бизнеса преди се наричаха Office 365 Business.\n\n## <a name=\"editions\"></a>Издания \n* за бизнеса\n* за предприятия"

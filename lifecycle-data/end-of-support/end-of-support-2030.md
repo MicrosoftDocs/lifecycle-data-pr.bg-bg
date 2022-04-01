@@ -1,13 +1,13 @@
 ---
 title: Продукти, за които поддръжката приключва през 2030 г.
 description: Разберете кои продукти ще бъдат оттеглени, ще достигнат края на поддръжката си или ще преминат от базова към разширена поддръжка през 2030 г.
-ms.date: 08/11/2021
-ms.openlocfilehash: fc4571cb7bd8cfad504c5a3f2e677320c9a2fab6
-ms.sourcegitcommit: 0757165840b353e73bd33bcc287aec0d191c39cf
+ms.date: 01/26/2022
+ms.openlocfilehash: 15c0ded025a177c10f89e1839eb8c2da7c82daba
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "4027570"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116801"
 ---
 # <a name="products-ending-support-in-2030"></a>Продукти, за които поддръжката приключва през 2030 г.
 
@@ -29,6 +29,7 @@ ms.locfileid: "4027570"
 | Продукт | Край на поддръжката |
 | --- | --- |
 | [SQL Server 2019](/lifecycle/products/sql-server-2019?branch=live)<br> | 08 януари 2030 г. |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 09 април 2030 г. |
 | [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 09 юли 2030 г. |
 | [Azure DevOps Server 2020](/lifecycle/products/azure-devops-server-2020?branch=live)<br>[Microsoft Robotics](/lifecycle/products/microsoft-robotics?branch=live)<br> | 08 октомври 2030 г. |
 

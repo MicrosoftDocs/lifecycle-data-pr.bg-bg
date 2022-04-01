@@ -3,22 +3,24 @@ metadata:
   title: Облак на Microsoft за здравеопазване
   description: Облакът на Microsoft за здравеопазване следва Съвременните правила за жизнения цикъл.
   ms.date: 10/28/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 53f4831913175b123ec7e890133b90db82418c43
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: bg-BG
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154541"
 name: Облак на Microsoft за здравеопазване
-summary: |+
+summary: >+
   Облакът на Microsoft за здравеопазване следва [Съвременните](/lifecycle/policies/modern) правила за жизнения цикъл.
 
 
 products:
-  - dynamics
+- dynamics
 policyType: modern-online
 supportDates:
-  start: 10/28/2020
+  start: 2020-10-28T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 10/28/2020
-content: |+
-
-  ## <a name="links"></a>Връзки 
-  * [Научете повече за облака на Microsoft за здравеопазване](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)
-  * [Първи стъпки с облака на Microsoft за здравеопазване](/dynamics365/industry/healthcare/overview)
+- version: Original Release
+  startDate: 2020-10-28T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Връзки \n* [Научете повече за облака на Microsoft за здравеопазване](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)\n* [Първи стъпки с облака на Microsoft за здравеопазване](/dynamics365/industry/healthcare/overview)"

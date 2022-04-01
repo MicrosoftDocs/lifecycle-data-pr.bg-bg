@@ -1,13 +1,13 @@
 ---
 title: Продукти, за които поддръжката приключва през 2032 г.
 description: Разберете кои продукти ще бъдат оттеглени, ще достигнат края на поддръжката си или ще преминат от базова към разширена поддръжка през 2032 г.
-ms.date: 10/15/2021
-ms.openlocfilehash: ce028d97a7d8ba133cf639d3556d6dbd11728431
-ms.sourcegitcommit: 25d74b15f53636fd58822f99f8525489382b6d23
+ms.date: 11/16/2021
+ms.openlocfilehash: f2689d6e4647835f474d719889f30caa4cbb0d2a
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "4027626"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116727"
 ---
 # <a name="products-ending-support-in-2032"></a>Продукти, за които поддръжката приключва през 2032 г.
 
@@ -22,5 +22,12 @@ ms.locfileid: "4027626"
 
 
 
+## <a name="products-reaching-end-of-support"></a>Продукти, достигащи край на поддръжката си
+
+Поддръжката на следните продукти и издания, регулирани от [Правилата за фиксиран жизнен цикъл](/lifecycle/policies/fixed), ще приключи през 2032 г.
+
+| Продукт | Край на поддръжката |
+| --- | --- |
+| [Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 13 януари 2032 г. |
 
 
