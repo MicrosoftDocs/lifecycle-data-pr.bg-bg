@@ -1,13 +1,13 @@
 ---
 title: Продукти, за които поддръжката приключва през 2019 г.
 description: Разберете кои продукти ще бъдат оттеглени, ще достигнат края на поддръжката си или ще преминат от базова към разширена поддръжка през 2019 г.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4027630"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518219"
 ---
 # <a name="products-ending-support-in-2019"></a>Продукти, за които поддръжката приключва през 2019 г.
 
@@ -24,7 +24,6 @@ ms.locfileid: "4027630"
 
 | Продукт | Оттегляне |
 | --- | --- |
-| [Azure Scheduler](/lifecycle/products/azure-scheduler?branch=live)<br> | 30 септември 2019 г. |
 | [HockeyApp](/lifecycle/products/hockeyapp?branch=live)<br> | 16 ноември 2019 г. |
 
 
@@ -34,6 +33,7 @@ ms.locfileid: "4027630"
 
 | Продукт | Край на обслужването |
 | --- | --- |
+| [PowerShell, PowerShell Core 6.0](/lifecycle/products/powershell?branch=live)<br> | 13 февруари 2019 г. |
 | [Visual Studio за Mac, Visual Studio 2017 за Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | 08 март 2019 г. |
 | [Windows 10 Enterprise и Education, версия 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home и Pro, версия 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Core, версия 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise, версия 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, версия 1709](/lifecycle/products/windows-server?branch=live)<br> | 9 април 2019 г. |
 | [Microsoft Endpoint Configuration Manager, версия 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 20 май 2019 г. |

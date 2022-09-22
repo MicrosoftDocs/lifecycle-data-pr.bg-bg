@@ -1,13 +1,13 @@
 ---
 title: Продукти, за които поддръжката приключва през 2020 г.
 description: Разберете кои продукти ще се оттеглят, ще достигнат края на поддръжката или ще преминат от базова поддръжка към разширена поддръжка през 2020 г.
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117578"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518182"
 ---
 # <a name="products-ending-support-in-2020"></a>Продукти, за които поддръжката приключва през 2020 г.
 
@@ -38,7 +38,7 @@ ms.locfileid: "4117578"
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, версия 1806](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 31 януари 2020 г. |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 03 март 2020 г. |
-| [PowerShell, PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | 04 септември 2020 г. |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | 04 септември 2020 г. |
 | [Microsoft Endpoint Configuration Manager, версия 1902](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 27 септември 2020 г. |
 | [Услуги на Visio в SharePoint (в Microsoft 365)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | 30 септември 2020 г. |
 | [Windows 10 Enterprise и Education, версия 1709](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, версия 1709](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 13 октомври 2020 г.  |

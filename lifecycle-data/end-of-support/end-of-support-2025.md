@@ -1,13 +1,13 @@
 ---
 title: Продукти, за които поддръжката приключва през 2025 г.
 description: Разберете кои продукти ще бъдат оттеглени, ще достигнат края на поддръжката си или ще преминат от базова към разширена поддръжка през 2025 г.
-ms.date: 03/09/2022
-ms.openlocfilehash: 0ef5be1ee8667f218c76bc4c219b19db879ec365
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117171"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517888"
 ---
 # <a name="products-ending-support-in-2025"></a>Продукти, за които поддръжката приключва през 2025 г.
 

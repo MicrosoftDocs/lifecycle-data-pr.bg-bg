@@ -1,13 +1,13 @@
 ---
 title: Продукти, за които поддръжката приключва през 2027 г.
 description: Разберете кои продукти ще бъдат оттеглени, ще достигнат края на поддръжката си или ще преминат от базова към разширена поддръжка през 2027 г.
-ms.date: 03/09/2022
-ms.openlocfilehash: c9c996d5f6ea11d9d413b309dd3bb4e673b02a14
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 05/05/2022
+ms.openlocfilehash: 49ef75f723bc4d89465d14bfd395b860123516fe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117023"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517889"
 ---
 # <a name="products-ending-support-in-2027"></a>Продукти, за които поддръжката приключва през 2027 г.
 
@@ -40,4 +40,5 @@ ms.locfileid: "4117023"
 
 | Продукт | Край на основната поддръжка |
 | --- | --- |
-| [Приложения на Dynamics 365 for Customer Engagement, версия 9 (локална актуализация)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 12 януари 2027 г. |
+| [Приложения на Dynamics 365 for Customer Engagement, версия 9 (локална актуализация)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 12 януари 2027 г. |
+| [Мениджър за защита на данни на System Center 2022](/lifecycle/products/system-center-2022-data-protection-manager?branch=live)<br>[Оперативен мениджър на System Center 2022](/lifecycle/products/system-center-2022-operations-manager?branch=live)<br>[System Center 2022 Orchestrator](/lifecycle/products/system-center-2022-orchestrator?branch=live)<br>[Диспечер на услуги на System Center 2022](/lifecycle/products/system-center-2022-service-manager?branch=live)<br>[Диспечер на виртуални машини на System Center 2022](/lifecycle/products/system-center-2022-virtual-machine-manager?branch=live)<br> | 13 април 2027 г. |

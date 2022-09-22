@@ -2,14 +2,14 @@
 metadata:
   title: Класически клиент за Защита на информацията в Azure
   description: Класическият клиент за Защита на информацията в Azure следва Съвременните правила за жизнения цикъл.
-  ms.date: 11/17/2021
+  ms.date: 2022/05/27
   keywords: 
-  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: d316768b36d12f3ce3e4b70bcc7d0e26d4b432ca
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4156542"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518626"
 name: Класически клиент за Защита на информацията в Azure
 summary: >+
   Класическият клиент за Защита на информацията в Azure следва [Съвременните](/lifecycle/policies/modern) правила за жизнения цикъл.
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 2016-10-01T00:00:00.000-08:00
   endDate: 2021-03-31T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>Връзки \n* [Информация за обслужването](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Указания за мигриране](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> За да се осигури единно и опростено клиентско изживяване, клиентът Azure Information Protection (класическа версия) и Label Management в портала на Azure се оттеглят от 31 март 2021 г. Този времеви период позволява на всички настоящи потребители на клиента Azure Information Protection да преминат към нашето единно решение за етикетиране, като използват платформата за единно етикетиране за защита на информацията в Microsoft."
+content: "\n\n## <a name=\"links\"></a>Връзки \n* [Информация за обслужването](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Указания за мигриране](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> За да се осигури единно и опростено клиентско изживяване, клиентът Azure Information Protection (класическа версия) и Label Management в портала на Azure се оттеглят от 31 март 2021 г. Този времеви период позволява на всички настоящи клиенти на Azure Information Protection да преминат към платформата за единно етикетиране за защита на информацията в Microsoft."
