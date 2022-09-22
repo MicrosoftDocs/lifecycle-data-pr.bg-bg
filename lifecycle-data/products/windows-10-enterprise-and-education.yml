@@ -2,16 +2,16 @@
 metadata:
   title: Windows 10 Enterprise и Education
   description: Windows 10 Enterprise и Education следват Модерните правила за жизнен цикъл.
-  ms.date: 11/15/2021
+  ms.date: 09/09/2022
   keywords: 
-  ms.openlocfilehash: 753111f48f91c6e725fc0804de60cf4d0a9b23db
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: bc2a6f89cc2cdaaa6da73110ff83d37e6ede9bf6
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: bg-BG
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4130491"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519070"
 name: Windows 10 Enterprise и Education
-summary: "Windows 10 Enterprise и Education следват [Модерните](/lifecycle/policies/modern) правила за жизнен цикъл. \n\n\nТова се отнася до следните издания: Education, Enterprise\n\n\n> [!IMPORTANT]\n> Започвайки от Windows 10, версия 21H2 (актуализацията на Windows 10 от ноември 2021 г.), актуализациите на функциите ще се пускат ежегодно през втората половина на годината чрез канала за обща наличност. Отидете [тук](https://blogs.windows.com/windowsexperience/?p=176473), за да научите повече. Microsoft ще продължи да поддържа поне едно издание на Windows 10 до 14 октомври 2025 г.\n\n"
+summary: "Windows 10 Enterprise и Education следват [Модерните](/lifecycle/policies/modern) правила за жизнен цикъл. \n\n\nТова се отнася до следните издания: Education, Enterprise, Enterprise multi-session\n\n\n> [!IMPORTANT]\n> Започвайки от Windows 10, версия 21H2 (актуализацията на Windows 10 от ноември 2021 г.), актуализациите на функциите ще се пускат ежегодно през втората половина на годината чрез канала за обща наличност. Отидете [тук](https://blogs.windows.com/windowsexperience/?p=176473), за да научите повече. Microsoft ще продължи да поддържа поне едно издание на Windows 10 до 14 октомври 2025 г.\n\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -58,4 +58,4 @@ releases:
 - version: Version 1507
   startDate: 2015-07-29T00:00:00.000-08:00
   endDate: 2017-05-09T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>Връзки \n* [Windows като услуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Информация за продукта](/windows/windows-10/)\n* [ЧЗВ за жизнения цикъл – продукти на Windows](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home и Pro](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> Освен ако не бъдат отложени, последващите актуализации на функциите на Windows 10 може да бъдат инсталирани преди посочената дата на край на базовата поддръжка.\n\n\n## <a name=\"editions\"></a>Издания \n* Education\n* Enterprise"
+content: "\n\n## <a name=\"links\"></a>Връзки \n* [Windows като услуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Информация за продукта](/windows/windows-10/)\n* [ЧЗВ за жизнения цикъл – продукти на Windows](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home и Pro](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> Освен ако не бъдат отложени, последващите актуализации на функциите на Windows 10 може да бъдат инсталирани преди посочената дата на край на базовата поддръжка.\n\n\n## <a name=\"editions\"></a>Издания \n* Education\n* Enterprise\n* Enterprise multi-session"
